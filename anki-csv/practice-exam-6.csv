@@ -1,0 +1,462 @@
+"Which of the following is true regarding the AWS availability zones and edge locations?
+<ol type=""A"">
+<li>Edge locations are located in separate Availability Zones worldwide to serve global customers</li>
+<li>An availability zone exists within an edge location to distribute content globally with low latency</li>
+<li>An Availability Zone is a geographic location where AWS provides multiple, physically separated and isolated edge locations</li>
+<li>An AWS Availability Zone is an isolated location within an AWS Region, however edge locations are located in multiple cities worldwide</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which features are included in the AWS Business Support Plan? (Choose TWO)
+<ol type=""A"">
+<li>24x7 access to customer service</li>
+<li>Access to Cloud Support Engineers via email only during business hours</li>
+<li>Access to the Infrastructure Event Management (IEM) feature for additional fee</li>
+<li>24x7 access to the TAM feature</li>
+<li>Partial access to the core Trusted Advisor checks</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-6
+"A company is developing a mobile application and wants to allow users to use their Amazon, Apple, Facebook, or Google identities to authenticate to the application. Which AWS Service should the company use for this purpose?
+<ol type=""A"">
+<li>Amazon GuardDuty</li>
+<li>Amazon Personalize</li>
+<li>Amazon Cognito</li>
+<li>AWS IAM</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"Which AWS Service allows customers to create a template that programmatically defines policies and configurations of all AWS resources as code and so that the same template can be reused among multiple projects?
+<ol type=""A"">
+<li>AWS CloudFormation</li>
+<li>AWS Config</li>
+<li>AWS CloudTrail</li>
+<li>AWS Auto Scaling</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"Which of the following are advantages of using AWS as a cloud computing provider? (Choose TWO)
+<ol type=""A"">
+<li>Eliminates the need to monitor servers and applications</li>
+<li>Manages all the compliance and auditing tasks</li>
+<li>Provides custom hardware to meet any specification</li>
+<li>Eliminates the need to guess on infrastructure capacity needs</li>
+<li>Enables customers to trade their capital expenses for operational expenses</li>
+</ol>"	"Answer
+  Correct answer: D, E
+"	practice-exam-6
+"A customer is planning to migrate their Microsoft SQL Server databases to AWS. Which AWS Services can the customer use to run their Microsoft SQL Server database on AWS? (Choose TWO)
+<ol type=""A"">
+<li>AWS Fargate</li>
+<li>Amazon Elastic Compute Cloud</li>
+<li>Amazon RDS</li>
+<li>AWS Database Migration service (DMS)</li>
+<li>AWS Lambda</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-6
+"Which AWS Service can perform health checks on Amazon EC2 instances?
+<ol type=""A"">
+<li>AWS CloudFormation</li>
+<li>Amazon Route 53</li>
+<li>Amazon Chime</li>
+<li>Amazon Aurora</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"A company is developing an application that will leverage facial recognition to automate photo tagging. Which AWS Service should the company use for facial recognition?
+<ol type=""A"">
+<li>Amazon Comprehend</li>
+<li>AWS IAM</li>
+<li>Amazon Polly</li>
+<li>Amazon Rekognition</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which of the following are examples of AWS-managed databases? (Choose TWO)
+<ol type=""A"">
+<li>Amazon Neptune</li>
+<li>Amazon CloudSearch</li>
+<li>Microsoft SQL Server on Amazon EC2</li>
+<li>MySQL on Amazon EC2</li>
+<li>Amazon RDS for MySQL</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-6
+"A company’s AWS workflow requires that it periodically perform large-scale image and video processing jobs. The customer is seeking to minimize cost and has stated that the amount of time it takes to process these jobs is not critical, but that cost minimization is the most important factor in designing the solution. Which EC2 instance class is best suited for this processing?
+<ol type=""A"">
+<li>EC2 On-Demand Instances</li>
+<li>EC2 Reserved Instances     - No Upfront</li>
+<li>EC2 Spot Instances</li>
+<li>EC2 Reserved Instances     - All Upfront</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"There is a requirement to grant a DevOps team full administrative access to all resources in an AWS account. Who can grant them these permissions?
+<ol type=""A"">
+<li>AWS account owner</li>
+<li>AWS technical account manager</li>
+<li>AWS security team</li>
+<li>AWS cloud support engineers</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"You need to migrate a large number of on-premises workloads to AWS. Which AWS service is the most appropriate?
+<ol type=""A"">
+<li>AWS File Transfer Acceleration</li>
+<li>AWS Server Migration Service</li>
+<li>AWS Database Migration Service</li>
+<li>AWS Application Discovery Service</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"What are some key benefits of using AWS CloudFormation? (Choose TWO)
+<ol type=""A"">
+<li>It helps AWS customers deploy their applications without worrying about the underlying infrastructure</li>
+<li>It applies advanced IAM security features automatically</li>
+<li>It automates the provisioning and updating of your infrastructure in a safe and controlled manner</li>
+<li>It allows you to model your entire infrastructure in just a text file</li>
+<li>It compiles and builds application code in a timely manner</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-6
+"Which of the following is a cloud computing deployment model that connects infrastructure and applications between cloud-based resources and existing resources not located in the cloud?
+<ol type=""A"">
+<li>On-premises</li>
+<li>Mixed</li>
+<li>Hybrid</li>
+<li>Cloud</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"A company is hosting business critical workloads in an AWS Region. To protect against data loss and ensure business continuity, a mirror image of the current AWS environment should be created in another AWS Region. Company policy requires that the standby environment must be available in minutes in case of an outage in the primary AWS Region. Which AWS service can be used to meet these requirements?
+<ol type=""A"">
+<li>CloudEndure Disaster Recovery</li>
+<li>CloudEndure Migration</li>
+<li>AWS Backup</li>
+<li>AWS Glue</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"Which of the following S3 storage classes is most appropriate to host static assets for a popular e-commerce website with stable access patterns?
+<ol type=""A"">
+<li>S3 Standard-IA</li>
+<li>S3 Intelligent-Tiering</li>
+<li>S3 Glacier Deep Archive</li>
+<li>S3 Standard</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"You want to create a backup of your data in another geographical location. Where should you create this backup?
+<ol type=""A"">
+<li>In another Edge location</li>
+<li>In another Region</li>
+<li>In another VPC</li>
+<li>In another Availability Zone</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"Which statement is true in relation to the security of Amazon EC2?
+<ol type=""A"">
+<li>You should use instance store volumes to store login data</li>
+<li>You should regularly patch the operating system and applications on your EC2 instances</li>
+<li>You should deploy critical components of your application in the Availability Zone that you trust</li>
+<li>You can track all API calls using Amazon Athena</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"What does AWS Cost Explorer provide to help manage your AWS spend?
+<ol type=""A"">
+<li>Cost comparisons between AWS Cloud environments and on-premises environments</li>
+<li>Accurate estimates of AWS service costs based on your expected usage</li>
+<li>Consolidated billing</li>
+<li>Highly accurate cost forecasts for up to 12 months ahead</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which of the following is a feature of Amazon RDS that performs automatic failover when the primary database fails to respond?
+<ol type=""A"">
+<li>RDS Single-AZ</li>
+<li>RDS Write Replica</li>
+<li>RDS Snapshots</li>
+<li>RDS Multi-AZ</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"You are using several on-demand EC2 Instances to run your development environment. What is the best way to reduce your charges when these instances are not in use?
+<ol type=""A"">
+<li>Deleting all EBS volumes attached to the instances</li>
+<li>You cannot minimize charges for on-demand instances</li>
+<li>Terminating the instances</li>
+<li>Stopping the instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which of the following strategies helps protect your AWS root account?
+<ol type=""A"">
+<li>Delete root user access keys if you do not need them</li>
+<li>Apply MFA for the root account and use it for all of your work</li>
+<li>Access the root account only from your personal Mobile Phone</li>
+<li>Only share your AWS account password or access keys with trusted persons</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"Which of the following are factors should be considered for Amazon EBS pricing? (Choose TWO)
+<ol type=""A"">
+<li>The size of volumes provisioned per month</li>
+<li>The compute capacity you consume</li>
+<li>The amount of data you have stored in snapshots</li>
+<li>The compute time you consume</li>
+<li>The number of Snowball storage devices you request</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-6
+"You have just set up your AWS environment and have created six IAM user accounts for the DevOps team. What is the AWS recommendation when granting permissions to these IAM accounts?
+<ol type=""A"">
+<li>Attach a separate IAM policy for each individual account</li>
+<li>Apply the Principle of Least Privilege</li>
+<li>For security purposes, you should not grant any permission to the DevOps team</li>
+<li>Create six different IAM passwords</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"Which of the following has the greatest impact on cost? (Choose TWO)
+<ol type=""A"">
+<li>Compute charges</li>
+<li>The number of services used</li>
+<li>Data Transfer In charges</li>
+<li>Data Transfer Out charges</li>
+<li>The number of IAM roles provisioned</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-6
+"Who from the following will get the largest discount?
+<ol type=""A"">
+<li>A user who chooses to buy On-demand, Convertible, Partial upfront instances</li>
+<li>A user who chooses to buy Reserved, Convertible, All upfront instances</li>
+<li>A user who chooses to buy Reserved, Standard, No upfront instances</li>
+<li>A user who chooses to buy Reserved, Standard, All upfront instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which of the following is an available option when purchasing Amazon EC2 instances?
+<ol type=""A"">
+<li>The ability to bid to get the lowest possible prices</li>
+<li>The ability to register EC2 instances to get volume discounts on every hour the instances are running</li>
+<li>The ability to buy Dedicated Instances for up to 90% discount</li>
+<li>The ability to pay upfront to get lower hourly costs</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"What does the term “Economies of scale” mean?
+<ol type=""A"">
+<li>It means that you save more when you consume more</li>
+<li>It means as more time passes using AWS, you pay more for its services</li>
+<li>It means that AWS will continuously lower costs as it grows</li>
+<li>It means that you have the ability to pay as you go</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"A company experiences fluctuations in traffic patterns to their e-commerce website when running flash sales. What service can help the company dynamically match the required compute capacity to handle spikes in traffic during flash sales?
+<ol type=""A"">
+<li>AWS Auto Scaling</li>
+<li>Amazon Elastic Compute Cloud</li>
+<li>Amazon Elastic File System</li>
+<li>Amazon ElastiCache</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"Which of the below options is true of Amazon VPC?
+<ol type=""A"">
+<li>Amazon VPC allows customers to control user interactions with all other AWS resources</li>
+<li>AWS Customers have complete control over their Amazon VPC virtual networking environment</li>
+<li>AWS is responsible for all the management and configuration details of Amazon VPC</li>
+<li>Amazon VPC helps customers to review their AWS architecture and adopt best practices</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"Which tool can a non-AWS customer use to compare the cost of on-premises environment resources to AWS?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS Pricing Calculator</li>
+<li>AWS Budgets</li>
+<li>AWS TCO Calculator</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which of the following services provide real-time auditing for compliance and vulnerabilities? (Choose TWO)
+<ol type=""A"">
+<li>AWS Config</li>
+<li>Amazon Redshift</li>
+<li>Amazon MQ</li>
+<li>AWS Trusted Advisor</li>
+<li>Amazon Cognito</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-6
+"Which of the following AWS services uses Puppet to automate how EC2 instances are configured?
+<ol type=""A"">
+<li>AWS OpsWorks</li>
+<li>AWS CloudFormation</li>
+<li>AWS Quick Starts</li>
+<li>AWS CloudTrail</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"An organization uses a hybrid cloud architecture to run their business. Which AWS service enables them to deploy their applications to any AWS or on-premises server?
+<ol type=""A"">
+<li>Amazon Kinesis</li>
+<li>Amazon QuickSight</li>
+<li>AWS CodeDeploy</li>
+<li>Amazon Athena</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"Select the services that are server-based: (Choose TWO)
+<ol type=""A"">
+<li>Amazon RDS</li>
+<li>Amazon DynamoDB</li>
+<li>AWS Lambda</li>
+<li>AWS Fargate</li>
+<li>Amazon EMR</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-6
+"What best describes penetration testing?
+<ol type=""A"">
+<li>Testing your application’s response time from different locations</li>
+<li>Testing your network to find security vulnerabilities that an attacker could exploit</li>
+<li>Testing your instances to check for the unhealthy ones</li>
+<li>Testing your software for bugs and errors</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"Which of the following are use cases for Amazon EMR? (Choose TWO)
+<ol type=""A"">
+<li>Enables you to backup extremely large amounts of data at very low costs</li>
+<li>Enables you to move Exabyte-scale data from on-premises datacenters into AWS</li>
+<li>Enables you to analyze and process extremely large amounts of data in a timely manner</li>
+<li>Enables you to easily run and scale Apache Spark, Hadoop,and other Big Data frameworks</li>
+<li>Enables you to easily run and manage Docker containers</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-6
+"Your CTO has asked you to contact AWS support using the chat feature to ask for guidance related to EBS. However, when you open the AWS support center you can't see a way to contact support via Chat. What should you do?
+<ol type=""A"">
+<li>There is no chat feature in AWS support</li>
+<li>The chat feature is available for all plans for an additional fee, but you have to request it first</li>
+<li>At a minimum, upgrade to Business support plan</li>
+<li>Upgrade from the Basic Support plan to Developer Support</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"A developer wants to quickly deploy and manage his application in the AWS Cloud, but he doesn’t have any experience with cloud computing. Which of the following AWS services would help the developer achieve his goal?
+<ol type=""A"">
+<li>AWS Fargate</li>
+<li>AWS Batch</li>
+<li>Amazon Personalize</li>
+<li>AWS Elastic Beanstalk</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"Which statement best describes the AWS Pay-As-You-Go pricing model?
+<ol type=""A"">
+<li>With AWS, you replace low upfront expenses with large variable payments</li>
+<li>With AWS, you replace low upfront expenses with large fixed payments</li>
+<li>With AWS, you replace large upfront expenses with low fixed payments</li>
+<li>With AWS, you replace large capital expenses with low variable payments</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"For Amazon RDS databases, what does AWS perform on your behalf? (Choose TWO)
+<ol type=""A"">
+<li>Database setup</li>
+<li>Network traffic protection</li>
+<li>Management of the operating system</li>
+<li>Access management</li>
+<li>Management of firewall rules</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-6
+"Which of the following strategies help analyze costs in AWS?
+<ol type=""A"">
+<li>Using tags to group resources</li>
+<li>Using AWS CloudFormation to automate the deployment of resources</li>
+<li>Deploying resources of the same type in different regions</li>
+<li>Configuring Amazon Inspector to automatically analyze costs and email reports</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"A media company has an application that requires the transfer of large data sets to and from AWS every day. This data is business critical and should be transferred over a consistent connection. Which AWS service should the company use?
+<ol type=""A"">
+<li>AWS Direct Connect</li>
+<li>Amazon Comprehend</li>
+<li>AWS Snowmobile</li>
+<li>AWS VPN</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"What is the main benefit of the AWS Storage Gateway service?
+<ol type=""A"">
+<li>It automates the process of building, maintaining, and running ETL jobs</li>
+<li>It provides physical devices to migrate data from on premises to AWS</li>
+<li>It allows integration of on-premises IT environments with Cloud Storage</li>
+<li>It provides hardware-based key storage for regulatory compliance</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-6
+"To protect against data loss, you need to backup your database regularly. What is the most cost-effective storage option that provides immediate retrieval of your backups?
+<ol type=""A"">
+<li>Amazon S3 Glacier Deep Archive</li>
+<li>Amazon S3 Standard-Infrequent Access</li>
+<li>Amazon S3 Glacier</li>
+<li>Instance Store</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"Which service can you use to route traffic to the endpoint that provides the best application performance for your users worldwide?
+<ol type=""A"">
+<li>AWS Global Accelerator</li>
+<li>AWS Data Pipeline</li>
+<li>AWS DAX Accelerator</li>
+<li>AWS Transfer Acceleration</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-6
+"Why are Serverless Architectures more economical than Server-based Architectures?
+<ol type=""A"">
+<li>Serverless Architectures use new powerful computing devices</li>
+<li>With the Server-based Architectures, compute resources continue to run all the time but with serverless architecture, compute resources are only used when code is being executed</li>
+<li>When you reserve serverless capacity, you will get large discounts compared to server reservation</li>
+<li>With Serverless Architectures you have the ability to scale automatically up or down as demand changes</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-6
+"Which of the below options are use cases of the Amazon Route 53 service? (Choose TWO)
+<ol type=""A"">
+<li>Point-to-point connectivity between an on-premises data center and AWS</li>
+<li>Detects configuration changes in the AWS environment</li>
+<li>DNS configuration and management</li>
+<li>Manages global application traffic through a variety of routing types</li>
+<li>Provides infrastructure security optimization recommendations</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-6
+"You want to transfer 200 Terabytes of data from on-premises locations to the AWS Cloud, which of the following can do the job in a cost-effective way?
+<ol type=""A"">
+<li>AWS Snowmobile</li>
+<li>AWS Import/Export</li>
+<li>AWS DMS</li>
+<li>AWS Snowball</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6
+"You have a real-time IoT application that requires sub-millisecond latency. Which of the following services should you use?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon Athena</li>
+<li>AWS Cloud9</li>
+<li>Amazon ElastiCache for Redis</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-6

@@ -1,0 +1,390 @@
+"Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
+<ol type=""A"">
+<li>Availability Zone</li>
+<li>Edge location</li>
+<li>Region</li>
+<li>Private networking</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-12
+"One benefit of On-Demand Amazon Elastic Compute Cloud (Amazon EC2) pricing is:
+<ol type=""A"">
+<li>The ability to bid for a lower hourly cost</li>
+<li>Paying a daily rate regardless of time used</li>
+<li>Paying only for time used</li>
+<li>Pre-paying for instances and paying a lower hourly rate</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"What can assist in evaluating an application for migration to the cloud? (Select TWO)
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS Professional Services</li>
+<li>AWS Systems Manager</li>
+<li>AWS Partner Network (APN)</li>
+<li>AWS Secrets Manager</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-12
+"A characteristic of edge locations is that they:
+<ol type=""A"">
+<li>Host Amazon EC2 instances closer to users</li>
+<li>Help lower latency and improve performance for users</li>
+<li>Cache frequently changing data without reaching the origin server</li>
+<li>Refresh data changes daily</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"Which of the following are valid ways for a customer to interact with AWS services? (Select TWO)
+<ol type=""A"">
+<li>Command line interface</li>
+<li>On-premises</li>
+<li>Software Development Kits</li>
+<li>Software-as-a-service</li>
+<li>Hybrid</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-12
+"What is a value proposition of the AWS Cloud?
+<ol type=""A"">
+<li>AWS is responsible for security in the AWS Cloud</li>
+<li>No long-term contract is required</li>
+<li>Provision new servers in days</li>
+<li>AWS manages user applications in the AWS Cloud</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"A company is migrating an application that is running non-interruptible workloads for a three-year time frame. Which pricing construct would provide the MOST cost-effective solution?
+<ol type=""A"">
+<li>Amazon EC2 Spot Instances</li>
+<li>Amazon EC2 Dedicated Instances</li>
+<li>Amazon EC2 On-Demand Instances</li>
+<li>Amazon EC2 Reserved Instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12
+"Which AWS service is used to track record, and audit configuration changes made to AWS resources?
+<ol type=""A"">
+<li>AWS Shield</li>
+<li>AWS Config</li>
+<li>AWS IAM</li>
+<li>Amazon Inspector</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"Which feature of the AWS Cloud will support an international company’s requirement for low latency to all of its customers?
+<ol type=""A"">
+<li>Fault tolerance</li>
+<li>Global reach</li>
+<li>Pay-as-you-go pricing</li>
+<li>High availability</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"How can one AWS account use Reserved Instances from another AWS account?
+<ol type=""A"">
+<li>By using Amazon EC2 Dedicated Instances</li>
+<li>By using AWS Organizations consolidated billing</li>
+<li>By using the AWS Cost Explorer tool</li>
+<li>By using AWS Budgets</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Select TWO)
+<ol type=""A"">
+<li>AWS automatically distributes the data globally for higher durability</li>
+<li>AWS will take care of operating the application</li>
+<li>AWS makes it easy to architect for high availability</li>
+<li>AWS can easily accommodate application demand changes</li>
+<li>AWS takes care of application security patching</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-12
+"Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?
+<ol type=""A"">
+<li>Amazon RDS</li>
+<li>Amazon EC2</li>
+<li>Amazon ElastiCache</li>
+<li>AWS Fargate</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"AWS supports which of the following methods to add security to Identity and Access Management (IAM) users? (Select TWO)
+<ol type=""A"">
+<li>Implementing Amazon Rekognition</li>
+<li>Using AWS Shield-protected resources</li>
+<li>Blocking access with Security Groups</li>
+<li>Using Multi-Factor Authentication (MFA)</li>
+<li>Enforcing password strength and expiration</li>
+</ol>"	"Answer
+  Correct answer: D, E
+"	practice-exam-12
+"Which service provides a hybrid storage service that enables on-premises applications to seamlessly use cloud storage?
+<ol type=""A"">
+<li>Amazon Glacier</li>
+<li>AWS Snowball</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon Elastic Block Storage (Amazon EBS)</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?
+<ol type=""A"">
+<li>AWS Marketplace</li>
+<li>Amazon Lumberyard</li>
+<li>AWS Artifact</li>
+<li>Amazon CloudSearch</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-12
+"Which of the following is a component of the AWS Global Infrastructure?
+<ol type=""A"">
+<li>Amazon Alexa</li>
+<li>AWS Regions</li>
+<li>Amazon Lightsail</li>
+<li>AWS Organizations</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"Which Amazon EC2 pricing model adjusts based on supply and demand of EC2 instances?
+<ol type=""A"">
+<li>On-Demand Instances</li>
+<li>Reserved Instances</li>
+<li>Spot Instances</li>
+<li>Convertible Reserved Instances</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"A company wants to migrate its applications to a VPC on AWS These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
+<ol type=""A"">
+<li>Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated</li>
+<li>Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC</li>
+<li>Use Amazon Athena to query data from the on-premises database servers</li>
+<li>Connect the company’s on-premises data center to AWS using AWS Direct Connect</li>
+<li>Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-12
+"A Cloud Practitioner must determine if any security groups in an AWS account have been provisioned to allow unrestricted access for specific ports. What is the SIMPLEST way to do this?
+<ol type=""A"">
+<li>Review the inbound rules for each security group in the Amazon EC2 management console to check for port 0.0.0.0/0</li>
+<li>Run AWS Trusted Advisor and review the findings</li>
+<li>Open the AWS IAM console and check the inbound rule filters for open access</li>
+<li>In AWS Config, create a custom rule that invokes an AWS Lambda function to review firewall rules for inbound access</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"Which of the following security-related services does AWS offer? (Select TWO)
+<ol type=""A"">
+<li>Multi-factor authentication physical tokens</li>
+<li>AWS Trusted Advisor security checks</li>
+<li>Data encryption</li>
+<li>Automated penetration testing</li>
+<li>Amazon S3 copyrighted content detection</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-12
+"Which of the following services have Distributed Denial of Service (DDoS) mitigation features? (Select TWO)
+<ol type=""A"">
+<li>AWS WAF</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon EC2</li>
+<li>Amazon CloudFront</li>
+<li>Amazon Inspector</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-12
+"Which of the following AWS features enables a user to launch a pre-configured Amazon Elastic Compute Cloud (Amazon EC2) instance?
+<ol type=""A"">
+<li>Amazon Elastic Block Store (Amazon EBS)</li>
+<li>Amazon Machine Image</li>
+<li>Amazon EC2 Systems Manager</li>
+<li>Amazon AppStream 2.0</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"A solution that is able to support growth in users, traffic, or data size with no drop in performance aligns with which cloud architecture principle?
+<ol type=""A"">
+<li>Think parallel</li>
+<li>Implement elasticity</li>
+<li>Decouple your components</li>
+<li>Design for failure</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"Which AWS Cloud benefit eliminates the need for users to try estimating future infrastructure usage?
+<ol type=""A"">
+<li>Easy and fast deployment of applications in multiple Regions around the world</li>
+<li>Security of the AWS Cloud</li>
+<li>Elasticity of the AWS Cloud</li>
+<li>Lower variable costs due to massive economies of scale</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"What can users access from AWS Artifact?
+<ol type=""A"">
+<li>AWS security and compliance documents</li>
+<li>A download of configuration management details for all AWS resources</li>
+<li>Training materials for AWS services</li>
+<li>A security assessment of the applications deployed in the AWS Cloud</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-12
+"Compared with costs in traditional and virtualized data centers, AWS has:
+<ol type=""A"">
+<li>Greater variable costs and greater upfront costs</li>
+<li>Fixed usage costs and lower upfront costs</li>
+<li>Lower variable costs and greater upfront costs</li>
+<li>Lower variable costs and lower upfront costs</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12
+"Which AWS service would a customer use with a static website to achieve tower latency and high transfer speeds?
+<ol type=""A"">
+<li>AWS Lambda</li>
+<li>Amazon DynamoDB Accelerator</li>
+<li>Amazon Route 53</li>
+<li>Amazon CloudFront</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12
+"How do Amazon EC2 Auto Scaling groups help achieve high availability for a web application?
+<ol type=""A"">
+<li>They automatically add more instances across multiple AWS Regions based on global demand of the application</li>
+<li>They automatically add or replace instances across multiple Availability Zones when the application needs it</li>
+<li>They enable the application’s stalk: content to reside closer to end users</li>
+<li>They are able to distribute incoming requests across a tier of web server instances</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-12
+"Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
+<ol type=""A"">
+<li>A public and private key-pair</li>
+<li>Amazon Inspector</li>
+<li>AWS Identity and Access Management (IAM) policies</li>
+<li>Security Groups</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"How should a customer forecast the future costs for running a new web application?
+<ol type=""A"">
+<li>Amazon Aurora Backtrack</li>
+<li>Amazon CloudWatch Billing Alarms</li>
+<li>AWS Simple Monthly Calculator</li>
+<li>AWS Cost and Usage report</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"Where are AWS compliance documents, such as an SOC 1 report, located?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS CloudTrail</li>
+<li>AWS Artifact</li>
+<li>AWS Certificate Manager</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"Which of the following tasks is the responsibility of AWS?
+<ol type=""A"">
+<li>Encrypting client-side data</li>
+<li>Configuring AWS Identity and Access Management (IAM) roles</li>
+<li>Securing the Amazon EC2 hypervisor</li>
+<li>Setting user password policies</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-12
+"Under the shared responsibility model which of the following areas are the customer’s responsibility? (Select TWO)
+<ol type=""A"">
+<li>Firmware upgrades of network infrastructure</li>
+<li>Patching of operating systems</li>
+<li>Patching of the underlying hypervisor</li>
+<li>Physical security of data centers</li>
+<li>Configuration of the security group</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-12
+"A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company’s needs?
+<ol type=""A"">
+<li>Amazon Simple Storage Service (Amazon S3)</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Kinesis</li>
+<li>Amazon Redshift</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12
+"Which AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
+<ol type=""A"">
+<li>Amazon EBS</li>
+<li>AWS Direct Connect</li>
+<li>Amazon CloudFront</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon Connect</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-12
+"What are the advantages of the AWS Cloud (Select TWO)
+<ol type=""A"">
+<li>Fixed rate monthly cost</li>
+<li>No need to guess capacity requirements</li>
+<li>Increased speed to market</li>
+<li>Increased upfront capital expenditure</li>
+<li>Physical access to cloud data centers</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-12
+"How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?
+<ol type=""A"">
+<li>Users do not have to wait for infrastructure provisioning</li>
+<li>The AWS Cloud infrastructure is much faster than an on-premises data center infrastructure</li>
+<li>AWS takes over application configuration management on behalf of users</li>
+<li>Users do not need to address security and compliance issues</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-12
+"Which of the following services could be used to deploy an application to servers running on-premises? (Select TWO)
+<ol type=""A"">
+<li>AWS Elastic Beanstalk</li>
+<li>AWS OpsWorks</li>
+<li>AWS CodeDeploy</li>
+<li>AWS Batch</li>
+<li>AWS X-Ray</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-12
+"What is an example of agility in the AWS Cloud?
+<ol type=""A"">
+<li>Access to multiple instance types</li>
+<li>Access to managed services</li>
+<li>Using Consolidated Billing to produce one bill</li>
+<li>Decreased acquisition time for new compute resources</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12
+"Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS Web Application Firewall (AWS WAF)</li>
+<li>Elastic Load Balancing (ELB)</li>
+<li>AWS Shield</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12
+"Which of the following are advantages of AWS consolidated billing? (Choose two)
+<ol type=""A"">
+<li>The ability to receive one bill for multiple accounts</li>
+<li>Service limits increasing by default in all accounts</li>
+<li>A fixed discount on the monthly bill</li>
+<li>Potential volume discounts, as usage in all accounts is combined</li>
+<li>The automatic extension of the master account’s AWS support plan to all accounts</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-12
+"A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes. Which service should the company use?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store</li>
+<li>Amazon EC2 with Amazon Elastic Block Store (Amazon EBS)</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-12

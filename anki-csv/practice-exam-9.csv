@@ -1,0 +1,460 @@
+"An administrator needs to rapidly deploy a popular IT solution and start using it immediately. Where can the administrator find assistance?
+<ol type=""A"">
+<li>AWS Well-Architected Framework documentation</li>
+<li>Amazon CloudFront</li>
+<li>AWS CodeCommit</li>
+<li>AWS Quick Start reference deployments</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-9
+"What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?
+<ol type=""A"">
+<li>It simplifies relational database administration tasks</li>
+<li>It provides 99.99999999999% reliability and durability</li>
+<li>It automatically scales databases for loads</li>
+<li>It enables users to dynamically adjust CPU and RAM resources</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which of the following AWS Cloud services can be used to run a customer-managed relational database?
+<ol type=""A"">
+<li>Amazon EC2</li>
+<li>Amazon Route 53</li>
+<li>Amazon ElastiCache</li>
+<li>Amazon DynamoDB</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"A user is planning to launch two additional Amazon EC2 instances to increase availability. Which action should the user take?
+<ol type=""A"">
+<li>Launch the instances across multiple Availability Zones in a single AWS Region</li>
+<li>Launch the instances as EC2 Reserved Instances in the same AWS Region and the same Availability Zone</li>
+<li>Launch the instances in multiple AWS Regions but in the same Availability Zone</li>
+<li>Launch the instances as EC2 Spot Instances in the same AWS Region but in different Availability Zones</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
+<ol type=""A"">
+<li>A public and private key-pair</li>
+<li>Amazon Inspector</li>
+<li>AWS Identity and Access Management (IAM) policies</li>
+<li>Security Groups</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select TWO)
+<ol type=""A"">
+<li>AWS VPN</li>
+<li>Amazon Redshift</li>
+<li>API Gateway</li>
+<li>Amazon Direct Connect</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-9
+"Which AWS service or feature can be used to monitor CPU usage?
+<ol type=""A"">
+<li>AWS CloudTrail</li>
+<li>VPC Flow Logs</li>
+<li>Amazon CloudWatch</li>
+<li>AWS Config</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"Which task is AWS responsible for in the shared responsibility model for security and compliance?
+<ol type=""A"">
+<li>Granting access to individuals and services</li>
+<li>Encrypting data in transit</li>
+<li>Updating Amazon EC2 host firmware</li>
+<li>Updating operating systems</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"Which of the following security-related actions are available at no cost?
+<ol type=""A"">
+<li>Calling AWS Support</li>
+<li>Contacting AWS Professional Services to request a workshop</li>
+<li>Accessing forums, blogs, and whitepapers</li>
+<li>Attending AWS classes at a local university</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"Which storage service can be used as a low-cost option for hosting static websites?
+<ol type=""A"">
+<li>Amazon Glacier</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Elastic File System (Amazon EFS)</li>
+<li>Amazon Simple Storage Service (Amazon S3)</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-9
+"According to the AWS shared responsibility model what is the sole responsibility of AWS?
+<ol type=""A"">
+<li>Application security</li>
+<li>Edge location management</li>
+<li>Patch management</li>
+<li>Client-side data</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO)
+<ol type=""A"">
+<li>Multiple Availability Zones</li>
+<li>Performance efficiency</li>
+<li>Security</li>
+<li>Encryption usage</li>
+<li>High availability</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-9
+"Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>Amazon Inspector</li>
+<li>Amazon CloudWatch</li>
+<li>AWS CloudTrail</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO)
+<ol type=""A"">
+<li>Use manual monitoring</li>
+<li>Use fixed servers</li>
+<li>Implement loose coupling</li>
+<li>Rely on individual components</li>
+<li>Design for scalability</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-9
+"When architecting cloud applications, which of the following are a key design principle?
+<ol type=""A"">
+<li>Use the largest instance possible</li>
+<li>Provision capacity for peak load</li>
+<li>Use the Scrum development process</li>
+<li>Implement elasticity</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-9
+"A company has deployed several relational databases on Amazon EC2 instances. Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
+<ol type=""A"">
+<li>Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor</li>
+<li>Enable automate patching for the instances using the Amazon RDS console</li>
+<li>In AWS Config. configure a rule for the instances and the required patch level</li>
+<li>Use AWS Systems Manager to automate database patching according to a schedule</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-9
+"Which mechanism allows developers to access AWS services from application code?
+<ol type=""A"">
+<li>AWS Software Development Kit</li>
+<li>AWS Management Console</li>
+<li>AWS CodePipeline</li>
+<li>AWS Config</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which AWS feature will reduce the customer’s total cost of ownership (TCO)?
+<ol type=""A"">
+<li>Shared responsibility security model</li>
+<li>Single tenancy</li>
+<li>Elastic computing</li>
+<li>Encryption</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"Which of the following is a benefit of using the AWS Cloud?
+<ol type=""A"">
+<li>Permissive security removes the administrative burden</li>
+<li>Ability to focus on revenue-generating activities</li>
+<li>Control over cloud network hardware</li>
+<li>Choice of specific cloud hardware vendors</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which of the following are categories of AWS Trusted Advisor? (Select TWO)
+<ol type=""A"">
+<li>Fault Tolerance</li>
+<li>Instance Usage</li>
+<li>Infrastructure</li>
+<li>Performance</li>
+<li>Storage Capacity</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-9
+"What is Amazon CloudWatch?
+<ol type=""A"">
+<li>A code repository with customizable build and team commit features</li>
+<li>A metrics repository with customizable notification thresholds and channels</li>
+<li>A security configuration repository with threat analytics</li>
+<li>A rule repository of a web application firewall with automated vulnerability prevention features</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Under the AWS shared responsibility model, which of the following activities are the customer’s responsibility? (Select TWO)
+<ol type=""A"">
+<li>Patching operating system components for Amazon Relational Database Server (Amazon RDS)</li>
+<li>Encrypting data on the client-side</li>
+<li>Training the data center staff</li>
+<li>Configuring Network Access Control Lists (ACL)</li>
+<li>Maintaining environmental controls within a data center</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-9
+"Under the shared responsibility model, which of the following is a shared control between a customer and AWS?
+<ol type=""A"">
+<li>Physical controls</li>
+<li>Patch management</li>
+<li>Zone security</li>
+<li>Data center auditing</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which AWS service is used to pay AWS bills, and monitor usage and budget costs?
+<ol type=""A"">
+<li>AWS Billing and Cost Management</li>
+<li>Consolidated billing</li>
+<li>Amazon CloudWatch</li>
+<li>Amazon QuickSight</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"How do customers benefit from Amazon’s massive economies of scale?
+<ol type=""A"">
+<li>Periodic price reductions as the result of Amazon’s operational efficiencies</li>
+<li>New Amazon EC2 instance types providing the latest hardware</li>
+<li>The ability to scale up and down when needed</li>
+<li>Increased reliability in the underlying hardware of Amazon EC2 instances</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?
+<ol type=""A"">
+<li>Service control policies (SCPs)</li>
+<li>Consolidated billing</li>
+<li>All Upfront Reserved Instances</li>
+<li>AWS Cost Explorer</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
+<ol type=""A"">
+<li>Amazon EBS</li>
+<li>Amazon Connect</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon CloudFront</li>
+<li>AWS Direct Connect</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-9
+"Which of the following services will automatically scale with an expected increase in web traffic?
+<ol type=""A"">
+<li>AWS CodePipeline</li>
+<li>Elastic Load Balancing</li>
+<li>Amazon EBS</li>
+<li>AWS Direct Connect</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which service provides a virtually unlimited amount of online highly durable object storage?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon Elastic File System (Amazon EFS)</li>
+<li>Amazon Elastic Container Service (Amazon ECS)</li>
+<li>Amazon S3</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-9
+"Which AWS feature should a customer leverage to achieve high availability of an application?
+<ol type=""A"">
+<li>AWS Direct Connect</li>
+<li>Availability Zones</li>
+<li>Data centers</li>
+<li>Amazon Virtual Private Cloud (Amazon VPC)</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which AWS service or feature can enhance network security by blocking requests from a particular network for a web application on AWS? (Select TWO)
+<ol type=""A"">
+<li>AWS WAF</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Direct Connect</li>
+<li>AWS Organizations</li>
+<li>Network ACLs</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-9
+"Which of the following is a cloud architectural design principle?
+<ol type=""A"">
+<li>Scale up not out</li>
+<li>Loosely couple components</li>
+<li>Build monolithic systems</li>
+<li>Use commercial database software</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which service enables risk auditing by continuously monitoring and logging account activity, including user actions in the AWS Management Console and AWS SDKs?
+<ol type=""A"">
+<li>Amazon CloudWatch</li>
+<li>AWS CloudTrail</li>
+<li>AWS Config</li>
+<li>AWS Health</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Where can AWS compliance and certification reports be downloaded?
+<ol type=""A"">
+<li>AWS Artifact</li>
+<li>AWS Concierge</li>
+<li>AWS Certificate Manager</li>
+<li>AWS Trusted Advisor</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"The financial benefits of using AWS are: (Select TWO)
+<ol type=""A"">
+<li>Reduced Total Cost of Ownership (TCO)</li>
+<li>Increased capital expenditure (capex)</li>
+<li>Reduced operational expenditure ( opex )</li>
+<li>Deferred payment plans for startups</li>
+<li>Business credit lines for startups</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-9
+"Which AWS service can serve a static website?
+<ol type=""A"">
+<li>Amazon S3</li>
+<li>Amazon Route 53</li>
+<li>Amazon QuickSight</li>
+<li>AWS X-Ray</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"What are the benefits of using the AWS Cloud for companies with customers in many countries around the world (Select TWO)
+<ol type=""A"">
+<li>Companies can deploy applications in multiple AWS Regions to reduce latency</li>
+<li>Amazon Translate automatically translates third-party website interfaces into multiple languages</li>
+<li>Amazon CloudFront has multiple edge locations around the world to reduce latency</li>
+<li>Amazon Comprehend allows users to build applications that can respond to user requests in many languages</li>
+<li>Elastic Load Balancing can distribute application web traffic to multiple AWS Regions around the world which reduces latency</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-9
+"Which of the following are main components of the AWS global infrastructure? (Select TWO)
+<ol type=""A"">
+<li>Resource groups</li>
+<li>Availability Zones</li>
+<li>Security groups</li>
+<li>Regions</li>
+<li>Amazon Machine Images (AMIS)</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-9
+"What is the AWS customer responsible for according to the AWS shared responsibility model?
+<ol type=""A"">
+<li>Physical access controls</li>
+<li>Data encryption</li>
+<li>Secure disposal of storage devices</li>
+<li>Environmental risk management</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"If each department within a company has its own AWS account, what is one way to enable consolidated billing?
+<ol type=""A"">
+<li>Use AWS Budgets on each account to pay only to budget</li>
+<li>Contact AWS Support for a monthly bill</li>
+<li>Create an AWS Organization from the payer account and invite the other accounts to join</li>
+<li>Put all invoices into one Amazon Simple Storage Service (Amazon S3) bucket, load data into Amazon Redshift, and then run a billing report</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"What costs are included when comparing AWS Total Cost of Ownership (TCO) with on-premises TCO?
+<ol type=""A"">
+<li>Project management</li>
+<li>Antivirus software licensing</li>
+<li>Data center security</li>
+<li>Software development</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"What is the benefit of using AWS managed services, such as Amazon ElastiCache and Amazon Relational Database Service (Amazon RDS)?
+<ol type=""A"">
+<li>They require the customer to monitor and replace failing instances</li>
+<li>They have better performance than customer-managed services</li>
+<li>They simplify patching and updating underlying OSs</li>
+<li>They do not require the customer to optimize instance type or size selections</li>
+</ol>"	"Answer
+  Correct Answer: C"	practice-exam-9
+"Which services can be used across hybrid AWS Cloud architectures? (Select TWO)
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>Virtual Private Gateway</li>
+<li>Classic Load Balancer</li>
+<li>Auto Scaling</li>
+<li>Amazon CloudWatch default metrics</li>
+</ol>"	"Answer
+  Correct answer: A, B
+"	practice-exam-9
+"Which statement best describes Elastic Load Balancing?
+<ol type=""A"">
+<li>It translates a domain name into an IP address using DNC</li>
+<li>It distributes incoming application traffic across one or more Amazon EC2 instances</li>
+<li>It collects metrics on connected Amazon EC2 instances</li>
+<li>It automatically adjusts the number of Amazon EC2 instances to support incoming traffic</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9
+"Which of the following is a fast and reliable NoSQL database service?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon RDS</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon S3</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-9
+"Which AWS service would you use to obtain compliance reports and certificates?
+<ol type=""A"">
+<li>AWS Artifact</li>
+<li>AWS Lambda</li>
+<li>Amazon Inspector</li>
+<li>AWS Certificate Manager</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which AWS services are defined as global instead of regional? (Select TWO)
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>Amazon EC2</li>
+<li>Amazon S3</li>
+<li>Amazon CloudFront</li>
+<li>Amazon DynamoDB</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-9
+"How would an AWS customer easily apply common access controls to a large set of users?
+<ol type=""A"">
+<li>Apply an IAM policy to an IAM group</li>
+<li>Apply an IAM policy to an IAM role</li>
+<li>Apply the same IAM policy to all IAM users with access to the same workload</li>
+<li>Apply an IAM policy to an Amazon Cognito user pool</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which of the following is an important architectural design principle when designing cloud applications?
+<ol type=""A"">
+<li>Use multiple Availability Zones</li>
+<li>Use tightly coupled components</li>
+<li>Use open source software</li>
+<li>Provision extra capacity</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-9
+"Which service allows a company with multiple AWS accounts to combine its usage to obtain volume discounts?
+<ol type=""A"">
+<li>AWS Server Migration Service</li>
+<li>AWS Organizations</li>
+<li>AWS Budgets</li>
+<li>AWS Trusted Advisor</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-9

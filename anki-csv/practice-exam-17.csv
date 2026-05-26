@@ -1,0 +1,361 @@
+"What time-savings advantage is offered with the use of Amazon Rekognition?
+<ol type=""A"">
+<li>Amazon Rekognition provides automatic watermarking of images</li>
+<li>Amazon Rekognition provides automatic detection of objects appearing in pictures</li>
+<li>Amazon Rekognition provides the ability to resize millions of images automatically</li>
+<li>Amazon Rekognition uses Amazon Mechanical Turk to allow humans to bid on object detection jobs</li>
+</ol>"	Answer	practice-exam-17
+"When comparing AWS with on-premises Total Cost of Ownership (TCO), what costs are included?
+<ol type=""A"">
+<li>Data center security</li>
+<li>Business analysis</li>
+<li>Project management</li>
+<li>Operating system administration</li>
+</ol>"	Answer	practice-exam-17
+"According to the AWS shared responsibility model, what is AWS responsible for?
+<ol type=""A"">
+<li>Configuring Amazon VPC</li>
+<li>Managing application code</li>
+<li>Maintaining application traffic</li>
+<li>Managing the network infrastructure</li>
+</ol>"	Answer	practice-exam-17
+"Which service should be used to estimate the costs of running a new project on AWS?
+<ol type=""A"">
+<li>AWS TCO Calculator</li>
+<li>AWS Simple Monthly Calculator</li>
+<li>AWS Cost Explorer API</li>
+<li>AWS Budgets</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS tool will identify security groups that grant unrestricted Internet access to a limited list of ports?
+<ol type=""A"">
+<li>AWS Organizations</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Usage Report</li>
+<li>Amazon EC2 dashboard</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service can be used to generate alerts based on an estimated monthly bill?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>Amazon CloudWatch</li>
+<li>AWS X-Ray</li>
+<li>AWS CloudTrail</li>
+</ol>"	Answer	practice-exam-17
+"Which Amazon EC2 pricing model offers the MOST significant discount when compared to On-Demand Instances?
+<ol type=""A"">
+<li>Partial Upfront Reserved Instances for a 1-year term</li>
+<li>All Upfront Reserved Instances for a 1-year term</li>
+<li>All Upfront Reserved Instances for a 3-year term</li>
+<li>No Upfront Reserved Instances for a 3-year term</li>
+</ol>"	Answer	practice-exam-17
+"Which of the following is the responsibility of AWS?
+<ol type=""A"">
+<li>Setting up AWS Identity and Access Management (IAM) users and groups</li>
+<li>Physically destroying storage media at end of life</li>
+<li>Patching guest operating systems</li>
+<li>Configuring security settings on Amazon EC2 instances</li>
+</ol>"	Answer	practice-exam-17
+"Which of the following is an advantage of using AWS?
+<ol type=""A"">
+<li>AWS audits user data</li>
+<li>Data is automatically secure</li>
+<li>There is no guessing on capacity needs</li>
+<li>AWS manages compliance needs</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service would a customer use with a static website to achieve lower latency and high transfer speeds?
+<ol type=""A"">
+<li>AWS Lambda</li>
+<li>Amazon DynamoDB Accelerator</li>
+<li>Amazon Route 53</li>
+<li>Amazon CloudFront</li>
+</ol>"	Answer	practice-exam-17
+"Which services manage and automate application deployments on AWS? (Choose two.)
+<ol type=""A"">
+<li>AWS Elastic Beanstalk</li>
+<li>AWS CodeCommit</li>
+<li>AWS Data Pipeline</li>
+<li>AWS CloudFormation</li>
+<li>AWS Config</li>
+</ol>"	Answer	practice-exam-17
+"A user wants guidance on possible savings when migrating from on-premises to AWS.  Which tool is suitable for this scenario?
+<ol type=""A"">
+<li>AWS Budgets</li>
+<li>Cost Explorer</li>
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>AWS Well-Architected Tool</li>
+</ol>"	Answer	practice-exam-17
+"Which principles are used to architect applications for reliability on the AWS Cloud? (Choose two.)
+<ol type=""A"">
+<li>Design for automated failure recovery</li>
+<li>Use multiple Availability Zones</li>
+<li>Manage changes via documented processes</li>
+<li>Test for moderate demand to ensure reliability</li>
+<li>Backup recovery to an on-premises environment</li>
+</ol>"	Answer	practice-exam-17
+"What tasks should a customer perform when that customer suspects an AWS account has been compromised? (Choose two.)
+<ol type=""A"">
+<li>Rotate passwords and access keys</li>
+<li>Remove MFA tokens</li>
+<li>Move resources to a different AWS Region</li>
+<li>Delete AWS CloudTrail Resources</li>
+<li>Contact AWS Support</li>
+</ol>"	Answer	practice-exam-17
+"What is an example of high availability in the AWS Cloud?
+<ol type=""A"">
+<li>Consulting AWS technical support at any time day or night</li>
+<li>Ensuring an application remains accessible, even if a resource fails</li>
+<li>Making any AWS service available for use by paying on demand</li>
+<li>Deploying in any part of the world using AWS Regions</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS Web Application Firewall (AWS WAF)</li>
+<li>Elastic Load Balancing (ELB)</li>
+<li>AWS Shield</li>
+</ol>"	Answer	practice-exam-17
+"A company wants to monitor the CPU usage of its Amazon EC2 resources.  Which AWS service should the company use?
+<ol type=""A"">
+<li>AWS CloudTrail</li>
+<li>Amazon CloudWatch</li>
+<li>AWS Cost and Usage report</li>
+<li>Amazon Simple Notification Service (Amazon SNS)</li>
+</ol>"	Answer	practice-exam-17
+"What is an AWS Identity and Access Management (IAM) role?
+<ol type=""A"">
+<li>A user associated with an AWS resource</li>
+<li>A group associated with an AWS resource</li>
+<li>An entity that defines a set of permissions for use with an AWS resource</li>
+<li>An authentication credential associated with a multi-factor authentication (MFA) token</li>
+</ol>"	Answer	practice-exam-17
+"What are the advantages of Reserved Instances? (Choose two.)
+<ol type=""A"">
+<li>They provide a discount over on-demand pricing</li>
+<li>They provide access to additional instance types</li>
+<li>They provide additional networking capability</li>
+<li>Customers can upgrade instances as new types become available</li>
+<li>Customers can reserve capacity in an Availability Zone</li>
+</ol>"	Answer	practice-exam-17
+"How do Amazon EC2 Auto Scaling groups help achieve high availability for a web application?
+<ol type=""A"">
+<li>They automatically add more instances across multiple AWS Regions based on global demand of the application</li>
+<li>They automatically add or replace instances across multiple Availability Zones when the application needs it</li>
+<li>They enable the application's static content to reside closer to end users</li>
+<li>They are able to distribute incoming requests across a tier of web server instances</li>
+</ol>"	Answer	practice-exam-17
+"How can one AWS account use Reserved Instances from another AWS account?
+<ol type=""A"">
+<li>By using Amazon EC2 Dedicated Instances</li>
+<li>By using AWS Organizations consolidated billing</li>
+<li>By using the AWS Cost Explorer tool</li>
+<li>By using AWS Budgets</li>
+</ol>"	Answer	practice-exam-17
+"A customer runs an On-Demand Amazon Linux EC2 instance for 3 hours, 5 minutes, and 6 seconds.  For how much time will the customer be billed?
+<ol type=""A"">
+<li>3 hours, 5 minutes</li>
+<li>3 hours, 5 minutes, and 6 seconds</li>
+<li>3 hours, 6 minutes</li>
+<li>4 hours</li>
+</ol>"	Answer	practice-exam-17
+"Which of the following AWS services provide compute resources? (Choose two.)
+<ol type=""A"">
+<li>AWS Lambda</li>
+<li>Amazon Elastic Container Service (Amazon ECS)</li>
+<li>AWS CodeDeploy</li>
+<li>Amazon Glacier</li>
+<li>AWS Organizations</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service enables users to deploy infrastructure as code by automating the process of provisioning resources?
+<ol type=""A"">
+<li>Amazon GameLift</li>
+<li>AWS CloudFormation</li>
+<li>AWS Data Pipeline</li>
+<li>AWS Glue</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Choose two.)
+<ol type=""A"">
+<li>Amazon EBS</li>
+<li>AWS Direct Connect</li>
+<li>Amazon CloudFront</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon Connect</li>
+</ol>"	Answer	practice-exam-17
+"Which of the following allows users to provision a dedicated network connection from their internal network to AWS?
+<ol type=""A"">
+<li>AWS CloudHSM</li>
+<li>AWS Direct Connect</li>
+<li>AWS VPN</li>
+<li>Amazon Connect</li>
+</ol>"	Answer	practice-exam-17
+"Which services use AWS edge locations? (Choose two.)
+<ol type=""A"">
+<li>Amazon CloudFront</li>
+<li>AWS Shield</li>
+<li>Amazon EC2</li>
+<li>Amazon RDS</li>
+<li>Amazon ElastiCache</li>
+</ol>"	Answer	practice-exam-17
+"Which service would provide network connectivity in a hybrid architecture that includes the AWS Cloud?
+<ol type=""A"">
+<li>Amazon VPC</li>
+<li>AWS Direct Connect</li>
+<li>AWS Directory Service</li>
+<li>Amazon API Gateway</li>
+</ol>"	Answer	practice-exam-17
+"Which tool can be used to compare the costs of running a web application in a traditional hosting environment to running it on AWS?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS Budgets</li>
+<li>AWS Cost and Usage report</li>
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+</ol>"	Answer	practice-exam-17
+"What is the value of using third-party software from AWS Marketplace instead of installing third-party software on Amazon EC2? (Choose two.)
+<ol type=""A"">
+<li>Users pay for software by the hour or month depending on licensing</li>
+<li>AWS Marketplace enables the user to launch applications with 1-Click</li>
+<li>AWS Marketplace data encryption is managed by a third-party vendor</li>
+<li>AWS Marketplace eliminates the need to upgrade to newer software versions</li>
+<li>Users can deploy third-party software without testing</li>
+</ol>"	Answer	practice-exam-17
+"Which of the following is a cloud architectural design principle?
+<ol type=""A"">
+<li>Scale up, not out</li>
+<li>Loosely couple components</li>
+<li>Build monolithic systems</li>
+<li>Use commercial database software</li>
+</ol>"	Answer	practice-exam-17
+"Under the shared responsibility model; which of the following areas are the customer's responsibility? (Choose two.)
+<ol type=""A"">
+<li>Firmware upgrades of network infrastructure</li>
+<li>Patching of operating systems</li>
+<li>Patching of the underlying hypervisor</li>
+<li>Physical security of data centers</li>
+<li>Configuration of the security group</li>
+</ol>"	Answer	practice-exam-17
+"Which service enables customers to audit and monitor changes in AWS resources?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>Amazon GuardDuty</li>
+<li>Amazon Inspector</li>
+<li>AWS Config</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service identifies security groups that allow unrestricted access to a user's AWS resources?
+<ol type=""A"">
+<li>AWS CloudTrail</li>
+<li>AWS Trusted Advisor</li>
+<li>Amazon CloudWatch</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-17
+"According to the AWS shared responsibility model, who is responsible for configuration management?
+<ol type=""A"">
+<li>It is solely the responsibility of the customer</li>
+<li>It is solely the responsibility of AWS</li>
+<li>It is shared between AWS and the customer</li>
+<li>It is not part of the AWS shared responsibility model</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service is a content delivery network that securely delivers data, video, and applications to users globally with low latency and high speeds?
+<ol type=""A"">
+<li>AWS CloudFormation</li>
+<li>AWS Direct Connect</li>
+<li>Amazon CloudFront</li>
+<li>Amazon Pinpoint</li>
+</ol>"	Answer	practice-exam-17
+"Which benefit of the AWS Cloud supports matching the supply of resources with changing workload demands?
+<ol type=""A"">
+<li>Security</li>
+<li>Reliability</li>
+<li>Elasticity</li>
+<li>High availability</li>
+</ol>"	Answer	practice-exam-17
+"A user is running an application on AWS and notices that one or more AWS-owned IP addresses is involved in a distributed denial-of-service (DDoS) attack.  Who should the user contact FIRST about this situation?
+<ol type=""A"">
+<li>AWS Premium Support</li>
+<li>AWS Technical Account Manager</li>
+<li>AWS Solutions Architect</li>
+<li>AWS Abuse team</li>
+</ol>"	Answer	practice-exam-17
+"Which of the following are benefits of hosting infrastructure in the AWS Cloud? (Choose two.)
+<ol type=""A"">
+<li>There are no upfront commitments</li>
+<li>AWS manages all security in the cloud</li>
+<li>Users have the ability to provision resources on demand</li>
+<li>Users have access to free and unlimited storage</li>
+<li>Users have control over the physical infrastructure</li>
+</ol>"	Answer	practice-exam-17
+"What AWS service would be used to centrally manage AWS access policies across multiple accounts?
+<ol type=""A"">
+<li>AWS Service Catalog</li>
+<li>AWS Config</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Organizations</li>
+</ol>"	Answer	practice-exam-17
+"What is AWS Trusted Advisor?
+<ol type=""A"">
+<li>It is an AWS staff member who provides recommendations and best practices on how to use AWS</li>
+<li>It is a network of AWS partners who provide recommendations and best practices on how to use AWS</li>
+<li>It is an online tool with a set of automated checks that provides recommendations on cost optimization, performance, and security</li>
+<li>It is another name for AWS Technical Account Managers who provide recommendations on cost optimization, performance, and security</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service or feature allows a company to visualize, understand, and manage AWS costs and usage over time?
+<ol type=""A"">
+<li>AWS Budgets</li>
+<li>AWS Cost Explorer</li>
+<li>AWS Organizations</li>
+<li>Consolidated billing</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service offers on-demand access to AWS security and compliance reports?
+<ol type=""A"">
+<li>AWS CloudTrail</li>
+<li>AWS Artifact</li>
+<li>AWS Health</li>
+<li>Amazon CloudWatch</li>
+</ol>"	Answer	practice-exam-17
+"What are the benefits of using the AWS Cloud for companies with customers in many countries around the world? (Choose two.)
+<ol type=""A"">
+<li>Companies can deploy applications in multiple AWS Regions to reduce latency</li>
+<li>Amazon Translate automatically translates third-party website interfaces into multiple languages</li>
+<li>Amazon CloudFront has multiple edge locations around the world to reduce latency</li>
+<li>Amazon Comprehend allows users to build applications that can respond to user requests in many languages</li>
+<li>Elastic Load Balancing can distribute application web traffic to multiple AWS Regions around the world, which reduces latency</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service handles the deployment details of capacity provisioning, load balancing, Auto Scaling, and application health monitoring?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>AWS Elastic Beanstalk</li>
+<li>Amazon Route 53</li>
+<li>Amazon CloudFront</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service provides inbound and outbound network ACLs to harden external connectivity to Amazon EC2?
+<ol type=""A"">
+<li>AWS IAM</li>
+<li>Amazon Connect</li>
+<li>Amazon VPC</li>
+<li>Amazon API Gateway</li>
+</ol>"	Answer	practice-exam-17
+"When a company provisions web servers in multiple AWS Regions, what is being increased?
+<ol type=""A"">
+<li>Coupling</li>
+<li>Availability</li>
+<li>Security</li>
+<li>Durability</li>
+</ol>"	Answer	practice-exam-17
+"The pay-as-you-go pricing model for AWS services:
+<ol type=""A"">
+<li>reduces capital expenditures</li>
+<li>requires payment up front for AWS services</li>
+<li>is relevant only for Amazon EC2, Amazon S3, and Amazon RDS</li>
+<li>reduces operational expenditures</li>
+</ol>"	Answer	practice-exam-17
+"Under the AWS shared responsibility model, AWS is responsible for which security-related task?
+<ol type=""A"">
+<li>Lifecycle management of IAM credentials</li>
+<li>Physical security of global infrastructure</li>
+<li>Encryption of Amazon EBS volumes</li>
+<li>Firewall configuration</li>
+</ol>"	Answer	practice-exam-17
+"Which AWS service enables users to consolidate billing across multiple accounts?
+<ol type=""A"">
+<li>Amazon QuickSight</li>
+<li>AWS Organizations</li>
+<li>AWS Budgets</li>
+<li>Amazon Forecast</li>
+</ol>"	Answer	practice-exam-17

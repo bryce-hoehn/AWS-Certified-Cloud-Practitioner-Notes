@@ -1,0 +1,360 @@
+"Which AWS service helps identify malicious or unauthorized activities in AWS accounts and workloads?
+<ol type=""A"">
+<li>Amazon Rekognition</li>
+<li>AWS Trusted Advisor</li>
+<li>Amazon GuardDuty</li>
+<li>Amazon CloudWatch</li>
+</ol>"	Answer	practice-exam-20
+"A company wants to try a third-party ecommerce solution before deciding to use it long term.  Which AWS service or tool will support this effort?
+<ol type=""A"">
+<li>AWS Marketplace</li>
+<li>AWS Partner Network (APN)</li>
+<li>AWS Managed Services</li>
+<li>AWS Service Catalog</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service is a managed NoSQL database?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Aurora</li>
+<li>Amazon RDS for MariaDB</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service should be used to create a billing alarm?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS CloudTrail</li>
+<li>Amazon CloudWatch</li>
+<li>Amazon QuickSight</li>
+</ol>"	Answer	practice-exam-20
+"A company is hosting a web application in a Docker container on Amazon EC2.  AWS is responsible for which of the following tasks?
+<ol type=""A"">
+<li>Scaling the web application and services developed with Docker</li>
+<li>Provisioning or scheduling containers to run on clusters and maintain their availability</li>
+<li>Performing hardware maintenance in the AWS facilities that run the AWS Cloud</li>
+<li>Managing the guest operating system, including updates and security patches</li>
+</ol>"	Answer	practice-exam-20
+"Users are reporting latency when connecting to a website with a global customer base.  Which AWS service will improve the customer experience by reducing latency?
+<ol type=""A"">
+<li>Amazon CloudFront</li>
+<li>AWS Direct Connect</li>
+<li>Amazon EC2 Auto Scaling</li>
+<li>AWS Transit Gateway</li>
+</ol>"	Answer	practice-exam-20
+"Which actions represent best practices for using AWS IAM? (Choose two.)
+<ol type=""A"">
+<li>Configure a strong password policy</li>
+<li>Share the security credentials among users of AWS accounts who are in the same Region</li>
+<li>Use access keys to log in to the AWS Management Console</li>
+<li>Rotate access keys on a regular basis</li>
+<li>Avoid using IAM roles to delegate permissions</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS feature or service can be used to capture information about incoming and outgoing traffic in an AWS VPC infrastructure?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>VPC Flow Logs</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS CloudTrail</li>
+</ol>"	Answer	practice-exam-20
+"A company wants to use an AWS service to monitor the health of application endpoints, with the ability to route traffic to healthy regional endpoints to improve application availability.  Which service will support these requirements?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>Amazon CloudWatch</li>
+<li>AWS Global Accelerator</li>
+<li>Amazon CloudFront</li>
+</ol>"	Answer	practice-exam-20
+"According to the AWS Well-Architected Framework, what change management steps should be taken to achieve reliability in the AWS Cloud? (Choose two.)
+<ol type=""A"">
+<li>Use AWS Config to generate an inventory of AWS resources</li>
+<li>Use service limits to prevent users from creating or making changes to AWS resources</li>
+<li>Use AWS CloudTrail to record AWS API calls into an auditable log file</li>
+<li>Use AWS Certificate Manager to whitelist approved AWS resources and services</li>
+<li>Use Amazon GuardDuty to validate configuration changes made to AWS resources</li>
+</ol>"	Answer	practice-exam-20
+"Which service can be used to monitor and receive alerts for AWS account root user AWS Management Console sign-in events?
+<ol type=""A"">
+<li>Amazon CloudWatch</li>
+<li>AWS Config</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS IAM</li>
+</ol>"	Answer	practice-exam-20
+"Which design principle should be considered when architecting in the AWS Cloud?
+<ol type=""A"">
+<li>Think of servers as non-disposable resources</li>
+<li>Use synchronous integration of services</li>
+<li>Design loosely coupled components</li>
+<li>Implement the least permissive rules for security groups</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS services can be used to move data from on-premises data centers to AWS? (Choose two.)
+<ol type=""A"">
+<li>AWS Snowball</li>
+<li>AWS Lambda</li>
+<li>AWS ElastiCache</li>
+<li>AWS Database Migration Service (AWS DMS)</li>
+<li>Amazon API Gateway</li>
+</ol>"	Answer	practice-exam-20
+"A batch workload takes 5 hours to finish on an Amazon EC2 instance. The amount of data to be processed doubles monthly and the processing time is proportional.  What is the best cloud architecture to address this consistently growing demand?
+<ol type=""A"">
+<li>Run the application on a bigger EC2 instance size</li>
+<li>Switch to an EC2 instance family that better matches batch requirements</li>
+<li>Distribute the application across multiple EC2 instances and run the workload in parallel</li>
+<li>Run the application on a bare metal EC2 instance</li>
+</ol>"	Answer	practice-exam-20
+"Each department within a company has its own independent AWS account and its own payment method. New company leadership wants to centralize departmental governance and consolidate payments.  How can this be achieved using AWS services or features?
+<ol type=""A"">
+<li>Forward monthly invoices for each account. Then create IAM roles to allow cross-account access</li>
+<li>Create a new AWS account. Then configure AWS Organizations and invite all existing accounts to join</li>
+<li>Configure AWS Organizations in each of the existing accounts. Then link all accounts together</li>
+<li>Use Cost Explorer to combine costs from all accounts. Then replicate IAM policies across accounts</li>
+</ol>"	Answer	practice-exam-20
+"The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept in the AWS Cloud value proposition?
+<ol type=""A"">
+<li>Economy of scale</li>
+<li>Elasticity</li>
+<li>High availability</li>
+<li>Agility</li>
+</ol>"	Answer	practice-exam-20
+"An ecommerce company anticipates a huge increase in web traffic for two very popular upcoming shopping holidays.  Which AWS service or feature can be configured to dynamically adjust resources to meet this change in demand?
+<ol type=""A"">
+<li>AWS CloudTrail</li>
+<li>Amazon EC2 Auto Scaling</li>
+<li>Amazon Forecast</li>
+<li>AWS Config</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service enables users to securely connect to AWS resources over the public internet?
+<ol type=""A"">
+<li>Amazon VPC peering</li>
+<li>AWS Direct Connect</li>
+<li>AWS VPN</li>
+<li>Amazon Pinpoint</li>
+</ol>"	Answer	practice-exam-20
+"Which tool is used to forecast AWS spending?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS Organizations</li>
+<li>Cost Explorer</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-20
+"A company is running an ecommerce application hosted in Europe. To decrease latency for users who access the website from other parts of the world, the company would like to cache frequently accessed static content closer to the users.  Which AWS service will support these requirements?
+<ol type=""A"">
+<li>Amazon ElastiCache</li>
+<li>Amazon CloudFront</li>
+<li>Amazon Elastic File System (Amazon EFS)</li>
+<li>Amazon Elastic Block Store (Amazon EBS)</li>
+</ol>"	Answer	practice-exam-20
+"Which of the following is a component of the AWS Global Infrastructure?
+<ol type=""A"">
+<li>Amazon Alexa</li>
+<li>AWS Regions</li>
+<li>Amazon Lightsail</li>
+<li>AWS Organizations</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service will help users determine if an application running on an Amazon EC2 instance has sufficient CPU capacity?
+<ol type=""A"">
+<li>Amazon CloudWatch</li>
+<li>AWS Config</li>
+<li>AWS CloudTrail</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-20
+"Why is it beneficial to use Elastic Load Balancers with applications?
+<ol type=""A"">
+<li>They allow for the conversion from Application Load Balancers to Classic Load Balancers</li>
+<li>They are capable of handling constant changes in network traffic patterns</li>
+<li>They automatically adjust capacity</li>
+<li>They are provided at no charge to users</li>
+</ol>"	Answer	practice-exam-20
+"Which tasks are the customer's responsibility in the AWS shared responsibility model? (Choose two.)
+<ol type=""A"">
+<li>Infrastructure facilities access management</li>
+<li>Cloud infrastructure hardware lifecycle management</li>
+<li>Configuration management of user's applications</li>
+<li>Networking infrastructure protection</li>
+<li>Security groups configuration</li>
+</ol>"	Answer	practice-exam-20
+"IT systems should be designed to reduce interdependencies, so that a change or failure in one component does not cascade to other components.  This is an example of which principle of cloud architecture design?
+<ol type=""A"">
+<li>Scalability</li>
+<li>Loose coupling</li>
+<li>Automation</li>
+<li>Automatic scaling</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service or feature can enhance network security by blocking requests from a particular network for a web application on AWS? (Choose two.)
+<ol type=""A"">
+<li>AWS WAF</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Direct Connect</li>
+<li>AWS Organizations</li>
+<li>Network ACLs</li>
+</ol>"	Answer	practice-exam-20
+"An application runs on multiple Amazon EC2 instances that access a shared file system simultaneously.  Which AWS storage service should be used?
+<ol type=""A"">
+<li>Amazon EBS</li>
+<li>Amazon EFS</li>
+<li>Amazon S3</li>
+<li>AWS Artifact</li>
+</ol>"	Answer	practice-exam-20
+"A web application is hosted on AWS using an Elastic Load Balancer, multiple Amazon EC2 instances, and Amazon RDS.  Which security measures fall under the responsibility of AWS? (Choose two.)
+<ol type=""A"">
+<li>Running a virus scan on EC2 instances</li>
+<li>Protecting against IP spoofing and packet sniffing</li>
+<li>Installing the latest security patches on the RDS instance</li>
+<li>Encrypting communication between the EC2 instances and the Elastic Load Balancer</li>
+<li>Configuring a security group and a network access control list (NACL) for EC2</li>
+</ol>"	Answer	practice-exam-20
+"What is the benefit of elasticity in the AWS Cloud?
+<ol type=""A"">
+<li>Ensure web traffic is automatically spread across multiple AWS Regions</li>
+<li>Minimize storage costs by automatically archiving log data</li>
+<li>Enable AWS to automatically select the most cost-effective services</li>
+<li>Automatically adjust the required compute capacity to maintain consistent performance</li>
+</ol>"	Answer	practice-exam-20
+"The continual reduction of AWS Cloud pricing is due to:
+<ol type=""A"">
+<li>pay-as-you go pricing</li>
+<li>the AWS global infrastructure</li>
+<li>economies of scale</li>
+<li>reserved storage pricing</li>
+</ol>"	Answer	practice-exam-20
+"A company needs an Amazon S3 bucket that cannot have any public objects due to compliance requirements.  How can this be accomplished?
+<ol type=""A"">
+<li>Enable S3 Block Public Access from the AWS Management Console</li>
+<li>Hold a team meeting to discuss the importance if only uploading private S3 objects</li>
+<li>Require all S3 objects to be manually approved before uploading</li>
+<li>Create a service to monitor all S3 uploads and remove any public uploads</li>
+</ol>"	Answer	practice-exam-20
+"A Cloud Practitioner identifies a billing issue after examining the AWS Cost and Usage report in the AWS Management Console.  Which action can be taken to resolve this?
+<ol type=""A"">
+<li>Open a detailed case related to billing and submit it to AWS Support for help</li>
+<li>Upload data describing the issue to a new object in a private Amazon S3 bucket</li>
+<li>Create a pricing application and deploy it to a right-sized Amazon EC2 instance for more information</li>
+<li>Proceed with creating a new dashboard in Amazon QuickSight</li>
+</ol>"	Answer	practice-exam-20
+"What does the AWS Simple Monthly Calculator do?
+<ol type=""A"">
+<li>Compares on-premises costs to colocation environments</li>
+<li>Estimates monthly billing based on projected usage</li>
+<li>Estimates power consumption at existing data centers</li>
+<li>Estimates CPU utilization</li>
+</ol>"	Answer	practice-exam-20
+"Who is responsible for patching the guest operating system for Amazon RDS?
+<ol type=""A"">
+<li>The AWS Product team</li>
+<li>The customer Database Administrator</li>
+<li>Managed partners</li>
+<li>AWS Support</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS services may be scaled using AWS Auto Scaling? (Choose two.)
+<ol type=""A"">
+<li>Amazon EC2</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon S3</li>
+<li>Amazon Route 53</li>
+<li>Amazon Redshift</li>
+</ol>"	Answer	practice-exam-20
+"Which of the following are benefits of AWS Global Accelerator? (Choose two.)
+<ol type=""A"">
+<li>Reduced cost to run services on AWS</li>
+<li>Improved availability of applications deployed on AWS</li>
+<li>Higher durability of data stored on AWS</li>
+<li>Decreased latency to reach applications deployed on AWS</li>
+<li>Higher security of data stored on AWS</li>
+</ol>"	Answer	practice-exam-20
+"A user who wants to get help with billing and reactivate a suspended account should submit an account and billing request to:
+<ol type=""A"">
+<li>the AWS Support forum</li>
+<li>AWS Abuse</li>
+<li>an AWS Solutions Architect</li>
+<li>AWS Support</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS Cloud best practice uses the elasticity and agility of cloud computing?
+<ol type=""A"">
+<li>Provision capacity based on past usage and theoretical peaks</li>
+<li>Dynamically and predictively scale to meet usage demands</li>
+<li>Build the application and infrastructure in a data center that grants physical access</li>
+<li>Break apart the application into loosely coupled components</li>
+</ol>"	Answer	practice-exam-20
+"Which method helps to optimize costs of users moving to the AWS Cloud?
+<ol type=""A"">
+<li>Paying only for what is used</li>
+<li>Purchasing hardware before it is needed</li>
+<li>Manually provisioning cloud resources</li>
+<li>Purchasing for the maximum possible load</li>
+</ol>"	Answer	practice-exam-20
+"Under the AWS shared responsibility model, which of the following is a customer responsibility?
+<ol type=""A"">
+<li>Installing security patches for the Xen and KVM hypervisors</li>
+<li>Installing operating system patches for Amazon DynamoDB</li>
+<li>Installing operating system security patches for Amazon EC2 database instances</li>
+<li>Installing operating system security patches for Amazon RDS database instances</li>
+</ol>"	Answer	practice-exam-20
+"The AWS Cost Management tools give users the ability to do which of the following? (Choose two.)
+<ol type=""A"">
+<li>Terminate all AWS resources automatically if budget thresholds are exceeded</li>
+<li>Break down AWS costs by day, service, and linked AWS account</li>
+<li>Create budgets and receive notifications if current of forecasted usage exceeds the budgets</li>
+<li>Switch automatically to Reserved Instances or Spot Instances, whichever is most cost-effective</li>
+<li>Move data stored in Amazon S3 to a more cost-effective storage class</li>
+</ol>"	Answer	practice-exam-20
+"Under the AWS shared responsibility model, the security and patching of the guest operating system is the responsibility of:
+<ol type=""A"">
+<li>AWS Support</li>
+<li>the customer</li>
+<li>AWS Systems Manager</li>
+<li>AWS Config</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service makes it easy to create and manage AWS users and groups, and provide them with secure access to AWS resources at no charge?
+<ol type=""A"">
+<li>AWS Direct Connect</li>
+<li>Amazon Connect</li>
+<li>AWS Identity and Access Management (IAM)</li>
+<li>AWS Firewall Manager</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service provides on-demand of AWS security and compliance documentation?
+<ol type=""A"">
+<li>AWS Directory Service</li>
+<li>AWS Artifact</li>
+<li>AWS Trusted Advisor</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-20
+"Which AWS service can be used to turn text into life-like speech?
+<ol type=""A"">
+<li>Amazon Polly</li>
+<li>Amazon Transcribe</li>
+<li>Amazon Rekognition</li>
+<li>Amazon Lex</li>
+</ol>"	Answer	practice-exam-20
+"What is one of the core principles to follow when designing a highly available application in the AWS Cloud?
+<ol type=""A"">
+<li>Design using a serverless architecture</li>
+<li>Assume that all components within an application can fail</li>
+<li>Design AWS Auto Scaling into every application</li>
+<li>Design all components using open-source code</li>
+</ol>"	Answer	practice-exam-20
+"A user needs to generate a report that outlines the status of key security checks in an AWS account. The report must include:
+     (The status of Amazon S3 bucket permissions, Whether multi-factor authentication is enabled for the AWS account root user, If any security groups are configured to allow unrestricted access.)  Where can all this information be found in one location?
+<ol type=""A"">
+<li>Amazon QuickSight dashboard</li>
+<li>AWS CloudTrail trails</li>
+<li>AWS Trusted Advisor report</li>
+<li>IAM credential report</li>
+</ol>"	Answer	practice-exam-20
+"Which Amazon EC2 pricing model should be used to comply with per-core software license requirements?
+<ol type=""A"">
+<li>Dedicated Hosts</li>
+<li>On-Demand Instances</li>
+<li>Spot Instances</li>
+<li>Reserved Instances</li>
+</ol>"	Answer	practice-exam-20
+"Which of the AWS global infrastructure is used to cache copies of content for faster delivery to users across the globe?
+<ol type=""A"">
+<li>AWS Regions</li>
+<li>Availability Zones</li>
+<li>Edge locations</li>
+<li>Data centers</li>
+</ol>"	Answer	practice-exam-20
+"Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
+<ol type=""A"">
+<li>Security</li>
+<li>Operational excellence</li>
+<li>Performance efficiency</li>
+<li>Cost optimization</li>
+</ol>"	Answer	practice-exam-20

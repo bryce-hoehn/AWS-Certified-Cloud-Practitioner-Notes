@@ -1,0 +1,461 @@
+"A company is using EC2 Instances to run their e-commerce site on the AWS platform. If the site becomes unavailable, the company will lose a significant amount of money for each minute the site is unavailable. Which design principle should the company use to minimize the risk of an outage?
+<ol type=""A"">
+<li>Least Privilege</li>
+<li>Pilot Light</li>
+<li>Fault Tolerance</li>
+<li>Multi-threading</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"You decide to buy a reserved instance for a term of one year. Which option provides the largest total discount?
+<ol type=""A"">
+<li>All up-front reservation</li>
+<li>All reserved instance payment options provide the same discount level</li>
+<li>Partial up-front reservation</li>
+<li>No up-front reservation</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"What features does AWS offer to help protect your data in the Cloud? (Choose TWO)
+<ol type=""A"">
+<li>Access control</li>
+<li>Physical MFA devices</li>
+<li>Data encryption</li>
+<li>Unlimited storage</li>
+<li>Load balancing</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-5
+"An AWS customer has used one Amazon Linux instance for 2 hours, 5 minutes and 9 seconds, and one CentOS instance for 4 hours, 23 minutes and 7 seconds. How much time will the customer be billed for?
+<ol type=""A"">
+<li>3 hours for the Linux instance and 5 hours for the CentOS instance</li>
+<li>2 hours, 5 minutes and 9 seconds for the Linux instance and 4 hours, 23 minutes and 7 seconds for the CentOS instance</li>
+<li>2 hours, 5 minutes and 9 seconds for the Linux instance and 5 hours for the CentOS instance</li>
+<li>3 hours for the Linux instance and 4 hours, 23 minutes and 7 seconds for the CentOS instance</li>
+</ol>"	"Answer
+  Correct answer: C"	practice-exam-5
+"What is the AWS Support feature that allows customers to manage support cases programmatically?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS Operations Support</li>
+<li>AWS Support API</li>
+<li>AWS Personal Health Dashboard</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"Which methods can be used by customers to interact with AWS Identity and Access Management (IAM)? (Choose TWO)
+<ol type=""A"">
+<li>AWS CLI</li>
+<li>AWS Security Groups</li>
+<li>AWS SDKs</li>
+<li>AWS Network Access Control Lists</li>
+<li>AWS CodeCommit</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-5
+"Which of the following are types of AWS Identity and Access Management (IAM) identities? (Choose TWO)
+<ol type=""A"">
+<li>AWS Resource Groups</li>
+<li>IAM Policies</li>
+<li>IAM Roles</li>
+<li>IAM Users</li>
+<li>AWS Organizations</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-5
+"Which of the following Amazon RDS features facilitates offloading of database read activity?
+<ol type=""A"">
+<li>Database Snapshots</li>
+<li>Multi-AZ Deployments</li>
+<li>Automated Backups</li>
+<li>Read Replicas</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"How does AWS notify customers about security and privacy events pertaining to AWS services?
+<ol type=""A"">
+<li>Using the AWS ACM service</li>
+<li>Using Security Bulletins</li>
+<li>Using the AWS Management Console</li>
+<li>Using Compliance Resources</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"Which IAM entity can best be used to grant temporary access to your AWS resources?
+<ol type=""A"">
+<li>IAM Users</li>
+<li>Key Pair</li>
+<li>IAM Roles</li>
+<li>IAM Groups</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"A company has a web application that is hosted on a single EC2 instance and is approaching 100 percent CPU Utilization during peak loads. Rather than scaling the server vertically, the company has decided to deploy three Amazon EC2 instances in parallel and to distribute traffic across the three servers. What AWS Service should the company use to distribute the traffic evenly?
+<ol type=""A"">
+<li>AWS Global Accelerator</li>
+<li>AWS Application Load Balancer (ALB)</li>
+<li>Amazon CloudFront</li>
+<li>Transit VPC</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"Which of the following approaches will help you eliminate human error and automate the process of creating and updating your AWS environment?
+<ol type=""A"">
+<li>Use Software test automation tools</li>
+<li>Use AWS CodeDeploy to build and automate your AWS environment</li>
+<li>Use code to provision and operate your AWS infrastructure</li>
+<li>Migrate all of your applications to a dedicated host</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"A company is seeking to better secure its AWS account from unauthorized access. Which of the below options can the customer use to achieve this goal?
+<ol type=""A"">
+<li>Restrict any API call made through SDKs or CLI</li>
+<li>Create one IAM account for each department in the company (Development, QA, Production), and share it across all staff in that department</li>
+<li>Require Multi-Factor Authentication (MFA) for all IAM User access</li>
+<li>Set up two login passwords</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"Which AWS Service offers volume discounts based on usage?
+<ol type=""A"">
+<li>Amazon VPC</li>
+<li>Amazon S3</li>
+<li>Amazon Lightsail</li>
+<li>AWS Cost Explorer</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"Which of the following factors should be considered when determining the region in which AWS Resources will be deployed? (Choose TWO)
+<ol type=""A"">
+<li>The AWS Region’s security level</li>
+<li>Data sovereignty</li>
+<li>Cost</li>
+<li>The planned number of VPCs</li>
+<li>Geographic proximity to the company's location</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-5
+"You are running a financial services web application on AWS. The application uses a MySQL database to store the data. Which of the following AWS services would improve the performance of your application by allowing you to retrieve information from fast in-memory caches?
+<ol type=""A"">
+<li>Amazon EFS</li>
+<li>Amazon Neptune</li>
+<li>Amazon ElastiCache</li>
+<li>DAX</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"What are the advantages of using Auto Scaling Groups for EC2 instances?
+<ol type=""A"">
+<li>Auto Scaling Groups caches the most recent responses at global edge locations to reduce latency and improve performance</li>
+<li>Auto Scaling Groups scales EC2 instances in multiple Availability Zones to increase application availability and fault tolerance</li>
+<li>Auto Scaling Groups scales EC2 instances across multiple regions to reduce latency for global users</li>
+<li>Auto Scaling Groups distributes application traffic across multiple Availability Zones to enhance performance</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"The TCO gap between AWS infrastructure and traditional infrastructure has widened over the recent years. Which of the following could be the reason for that?
+<ol type=""A"">
+<li>AWS helps customers invest more in capital expenditures</li>
+<li>AWS automates all infrastructure operations, so customers save more on human resources costs</li>
+<li>AWS continues to lower the cost of cloud computing for its customers</li>
+<li>AWS secures AWS resources at no additional charge</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"Which of the following are examples of the customer’s responsibility to implement “security IN the cloud”? (Choose TWO)
+<ol type=""A"">
+<li>Building a schema for an application</li>
+<li>Replacing physical hardware</li>
+<li>Creating a new hypervisor</li>
+<li>Patch management of the underlying infrastructure</li>
+<li>File system encryption</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-5
+"Which of the following is a type of MFA device that customers can use to protect their AWS resources?
+<ol type=""A"">
+<li>AWS CloudHSM</li>
+<li>U2F Security Key</li>
+<li>AWS Access Keys</li>
+<li>AWS Key Pair</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"A company is seeking to deploy an existing .NET application onto AWS as quickly as possible. Which AWS Service should the customer use to achieve this goal?
+<ol type=""A"">
+<li>Amazon SNS</li>
+<li>AWS Elastic Beanstalk</li>
+<li>AWS Systems Manager</li>
+<li>AWS Trusted Advisor</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"Which of the following is NOT a factor when estimating the costs of Amazon EC2? (Choose TWO)
+<ol type=""A"">
+<li>The amount of time the instances will be running</li>
+<li>Number of security groups</li>
+<li>Allocated Elastic IP Addresses</li>
+<li>Number of Hosted Zones</li>
+<li>Number of instances</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-5
+"Which AWS Service helps enterprises extend their on-premises storage to AWS in a cost-effective manner?
+<ol type=""A"">
+<li>AWS Data Pipeline</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon Aurora</li>
+<li>Amazon EFS</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"A company is building an online cloud storage platform. They need a storage service that can scale capacity automatically, while minimizing cost. Which AWS storage service should the company use to meet these requirements?
+<ol type=""A"">
+<li>Amazon Simple Storage Service</li>
+<li>Amazon Elastic Block Store</li>
+<li>Amazon Elastic Container Service</li>
+<li>AWS Storage Gateway</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"You have just hired a skilled sys-admin to join your team. As usual, you have created a new IAM user for him to interact with AWS services. On his first day, you ask him to create snapshots of all existing Amazon EBS volumes and save them in a new Amazon S3 bucket. However, the new member reports back that he is unable to create neither EBS snapshots nor S3 buckets. What might prevent him from doing this simple task?
+<ol type=""A"">
+<li>EBS and S3 are accessible only to the root account owner</li>
+<li>The systems administrator must contact AWS Support first to activate his new IAM account</li>
+<li>There is not enough space in S3 to store the snapshots</li>
+<li>There is a non-explicit deny to all new users</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"An external auditor is requesting a log of all accesses to the AWS resources in the company’s account. Which of the following services will provide the auditor with the requested information?
+<ol type=""A"">
+<li>AWS CloudTrail</li>
+<li>Amazon CloudFront</li>
+<li>AWS CloudFormation</li>
+<li>Amazon CloudWatch</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"Which of the below options is true of Amazon Cloud Directory?
+<ol type=""A"">
+<li>Amazon Cloud Directory allows the organization of hierarchies of data across multiple dimensions</li>
+<li>Amazon Cloud Directory enables the analysis of video and data streams in real time</li>
+<li>Amazon Cloud Directory allows users to access AWS with their existing Active Directory credentials</li>
+<li>Amazon Cloud Directory allows for registration and management of domain names</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"A user has opened a ""Production System Down"" support case to get help from AWS Support after a production system disruption. What is the expected response time for this type of support case?
+<ol type=""A"">
+<li>12 hours</li>
+<li>15 minutes</li>
+<li>24 hours</li>
+<li>One hour</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"Which of the below options is a best practice for making your application on AWS highly available?
+<ol type=""A"">
+<li>Deploy the application to at least two Availability Zones</li>
+<li>Use Elastic Load Balancing (ELB) across multiple AWS Regions</li>
+<li>Deploy the application code on at least two servers in the same Availability Zone</li>
+<li>Rewrite the application code to handle all incoming requests</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"Which of the following should be taken into account when performing a TCO analysis regarding the costs of running an application on AWS VS on-premises? (Choose TWO)
+<ol type=""A"">
+<li>Labor and IT costs</li>
+<li>Cooling and power consumption</li>
+<li>Amazon EBS computing power</li>
+<li>Software architecture</li>
+<li>Software compatibility</li>
+</ol>"	"Answer
+  Correct answer: A, B
+"	practice-exam-5
+"Your company requires a response time of less than 15 minutes from support interactions about their business-critical systems that are hosted on AWS if those systems go down. Which AWS Support Plan should this company use?
+<ol type=""A"">
+<li>AWS Basic Support</li>
+<li>AWS Developer Support</li>
+<li>AWS Business Support</li>
+<li>AWS Enterprise Support</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"Which of the following AWS offerings are serverless services? (Choose TWO)
+<ol type=""A"">
+<li>Amazon EC2</li>
+<li>AWS Lambda</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon EMR</li>
+<li>Amazon RDS</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-5
+"Which AWS service enables you to quickly purchase and deploy SSL/TLS certificates?
+<ol type=""A"">
+<li>Amazon GuardDuty</li>
+<li>AWS ACM</li>
+<li>Amazon Detective</li>
+<li>AWS WAF</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"Which AWS Service provides integration with Chef to automate the configuration of EC2 instances?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>AWS OpsWorks</li>
+<li>AutoScaling</li>
+<li>AWS CloudFormation</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"A customer is seeking to store objects in their AWS environment and to make those objects downloadable over the internet. Which AWS Service can be used to accomplish this?
+<ol type=""A"">
+<li>Amazon EBS</li>
+<li>Amazon EFS</li>
+<li>Amazon S3</li>
+<li>Amazon Instance Store</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"Which of the following services can be used to monitor the HTTP and HTTPS requests that are forwarded to Amazon CloudFront?
+<ol type=""A"">
+<li>AWS WAF</li>
+<li>Amazon CloudWatch</li>
+<li>AWS Cloud9</li>
+<li>AWS CloudTrail</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
+<ol type=""A"">
+<li>On-demand Instances</li>
+<li>Dedicated Hosts</li>
+<li>Spot Instances</li>
+<li>Reserved Instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"A company wants to grant a new employee long-term access to manage Amazon DynamoDB databases. Which of the following is a recommended best-practice when granting these permissions?
+<ol type=""A"">
+<li>Create an IAM role and attach a policy with Amazon DynamoDB access permissions</li>
+<li>Create an IAM role and attach a policy with Administrator access permissions</li>
+<li>Create an IAM user and attach a policy with Amazon DynamoDB access permissions</li>
+<li>Create an IAM user and attach a policy with Administrator access permissions</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"When granting permissions to applications running on Amazon EC2 instances, which of the following is considered best practice?
+<ol type=""A"">
+<li>Generate new IAM access keys every time you delegate permissions</li>
+<li>Store the required AWS credentials directly within the application code</li>
+<li>Use temporary security credentials (IAM roles) instead of long-term access keys</li>
+<li>Do nothing; Applications that run on Amazon EC2 instances do not need permission to interact with other AWS services or resources</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-5
+"Which of the following will help AWS customers save on costs when migrating their workloads to AWS?
+<ol type=""A"">
+<li>Use servers instead of managed services</li>
+<li>Use existing third-party software licenses on AWS</li>
+<li>Migrate production workloads to AWS edge locations instead of AWS Regions</li>
+<li>Use AWS Outposts to run all workloads in a cost-optimized environment</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"An organization has a legacy application designed using monolithic-based architecture. Which AWS Service can be used to decouple the components of the application?
+<ol type=""A"">
+<li>Amazon SQS</li>
+<li>Virtual Private Gateway</li>
+<li>AWS Artifact</li>
+<li>Amazon CloudFront</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"Which of the following can be used to enable the Virtual Multi-Factor Authentication? (Choose TWO)
+<ol type=""A"">
+<li>Amazon Connect</li>
+<li>AWS CLI</li>
+<li>AWS Identity and Access Management (IAM)</li>
+<li>Amazon SNS</li>
+<li>Amazon Virtual Private Cloud</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-5
+"According to best practices, which of the below options is best suited for processing a large number of binary files?
+<ol type=""A"">
+<li>Vertically scaling EC2 instances</li>
+<li>Running RDS instances in parallel</li>
+<li>Vertically scaling RDS instances</li>
+<li>Running EC2 instances in parallel</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"A company is planning to use Amazon S3 and Amazon CloudFront to distribute its video courses globally. What tool can the company use to estimate the costs of these services?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS Pricing Calculator</li>
+<li>AWS Budgets</li>
+<li>AWS Cost &amp; Usage Report</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"What should you do if you see resources, which you don’t remember creating, in the AWS Management Console? (Choose TWO)
+<ol type=""A"">
+<li>Stop all running services and open an investigation</li>
+<li>Give your root account password to AWS Support so that they can assist in troubleshooting and securing the account</li>
+<li>Check the AWS CloudTrail logs and delete all IAM users that have access to your resources</li>
+<li>Open an investigation and delete any potentially compromised IAM users</li>
+<li>Change your AWS root account password and the passwords of any IAM users</li>
+</ol>"	"Answer
+  Correct answer: D, E
+"	practice-exam-5
+"A key practice when designing solutions on AWS is to minimize dependencies between components so that the failure of a single component does not impact other components. What is this practice called?
+<ol type=""A"">
+<li>Elastic coupling</li>
+<li>Loosely coupling</li>
+<li>Scalable coupling</li>
+<li>Tightly coupling</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-5
+"Which AWS Service offers an NFS file system that can be mounted concurrently from multiple EC2 instances?
+<ol type=""A"">
+<li>Amazon Elastic File System</li>
+<li>Amazon Simple Storage Service</li>
+<li>Amazon Elastic Block Store</li>
+<li>AWS Storage Gateway</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-5
+"Availability Zones within a Region are connected over low-latency links. Which of the following is a benefit of these links?
+<ol type=""A"">
+<li>Create private connection to your data center</li>
+<li>Achieve global high availability</li>
+<li>Automate the process of provisioning new compute resources</li>
+<li>Make synchronous replication of your data possible</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-5
+"Which of the following are true regarding the languages that are supported on AWS Lambda? (Choose TWO)
+<ol type=""A"">
+<li>Lambda only supports Python and Node.js, but third party plugins are available to convert code in other languages to these formats</li>
+<li>Lambda natively supports a number of programming languages such as Node.js, Python, and Java</li>
+<li>Lambda is AWS’ proprietary programming language for microservices</li>
+<li>Lambda doesn’t support programming languages; it is a serverless compute service</li>
+<li>Lambda can support any programming language using an API</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-5
+"What are the capabilities of AWS X-Ray? (Choose TWO)
+<ol type=""A"">
+<li>Automatically decouples application components</li>
+<li>Facilitates tracking of user requests to identify application issues</li>
+<li>Helps improve application performance</li>
+<li>Deploys applications to Amazon EC2 instances</li>
+<li>Deploys applications to on-premises servers</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-5

@@ -1,0 +1,468 @@
+"A developer needs to set up an SSL security certificate for a client's eCommerce website in order to use the HTTPS protocol. Which of the following AWS services can be used to deploy the required SSL server certificates? (Choose TWO)
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>AWS ACM</li>
+<li>AWS Directory Service</li>
+<li>AWS Identity &amp; Access Management</li>
+<li>AWS Data Pipeline</li>
+</ol>"	"Answer
+  Correct answer: A, B
+"	practice-exam-4
+"Which of the following AWS services scale automatically without your intervention? (Choose TWO)
+<ol type=""A"">
+<li>Amazon EC2</li>
+<li>Amazon S3</li>
+<li>AWS Lambda</li>
+<li>Amazon EMR</li>
+<li>Amazon EBS</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-4
+"A company is planning to migrate an application from Amazon EC2 to AWS Lambda to use a serverless architecture. Which of the following will be the responsibility of AWS after migration? (Choose TWO)
+<ol type=""A"">
+<li>Application management</li>
+<li>Capacity management</li>
+<li>Access control</li>
+<li>Operating system maintenance</li>
+<li>Data management</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-4
+"How do ELBs improve the reliability of your application?
+<ol type=""A"">
+<li>By distributing traffic across multiple S3 buckets</li>
+<li>By replicating data to multiple availability zones</li>
+<li>By creating database Read Replicas</li>
+<li>By ensuring that only healthy targets receive traffic</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-4
+"A company needs to migrate their website from on-premises to AWS. Security is a major concern for them, so they need to host their website on hardware that is NOT shared with other AWS customers. Which of the following EC2 instance options meets this requirement?
+<ol type=""A"">
+<li>On-demand instances</li>
+<li>Spot instances</li>
+<li>Dedicated instances</li>
+<li>Reserved instances</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice to transfer the data to AWS?
+<ol type=""A"">
+<li>Snowball</li>
+<li>S3 Transfer Acceleration</li>
+<li>Snowmobile</li>
+<li>Amazon VPC</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"A company plans to migrate a large amount of archived data to AWS. The archived data must be maintained for a period of 5 years and must be retrievable within 5 hours of a request. What is the most cost-effective AWS storage service to use?
+<ol type=""A"">
+<li>Amazon S3 Glacier</li>
+<li>Amazon EFS</li>
+<li>Amazon S3 Standard</li>
+<li>Amazon EBS</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-4
+"Which AWS Service is used to manage user permissions?
+<ol type=""A"">
+<li>Security Groups</li>
+<li>Amazon ECS</li>
+<li>AWS IAM</li>
+<li>AWS Support</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"Which support plan includes AWS Support Concierge Service?
+<ol type=""A"">
+<li>Premium Support</li>
+<li>Business Support</li>
+<li>Enterprise Support</li>
+<li>Standard Support</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"A company needs to track resource changes using the API call history. Which AWS service can help the company achieve this goal?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>Amazon CloudWatch</li>
+<li>AWS CloudTrail</li>
+<li>AWS CloudFormation</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"What are the benefits of using an AWS-managed service? (Choose TWO)
+<ol type=""A"">
+<li>Provides complete control over the virtual infrastructure</li>
+<li>Allows customers to deliver new solutions faster</li>
+<li>Lowers operational complexity</li>
+<li>Eliminates the need to encrypt data</li>
+<li>Allows developers to control all patching related activities</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-4
+"Which of the following are use cases for Amazon S3? (Choose TWO)
+<ol type=""A"">
+<li>Hosting static websites</li>
+<li>Hosting websites that require sustained high CPU utilization</li>
+<li>Cost-effective database and log storage</li>
+<li>A media store for the CloudFront service</li>
+<li>Processing data streams at any scale</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-4
+"What is the AWS’ recommendation regarding access keys?
+<ol type=""A"">
+<li>Delete all access keys and use passwords instead</li>
+<li>Only share them with trusted people</li>
+<li>Rotate them regularly</li>
+<li>Save them within your application code</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"What is the AWS IAM feature that provides an additional layer of security on top of user-name and password authentication?
+<ol type=""A"">
+<li>Key Pair</li>
+<li>Access Keys</li>
+<li>SDK</li>
+<li>MFA</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-4
+"What is the benefit of using an API to access AWS Services?
+<ol type=""A"">
+<li>It improves the performance of AWS resources</li>
+<li>It reduces the time needed to provision AWS resources</li>
+<li>It reduces the number of developers necessary</li>
+<li>It allows for programmatic management of AWS resources</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-4
+"A company is planning to migrate a database with high read/write activity to AWS. What is the best storage option to use?
+<ol type=""A"">
+<li>AWS Storage Gateway</li>
+<li>Amazon S3</li>
+<li>Amazon EBS</li>
+<li>Amazon Glacier</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"How can AWS customers track and avoid over-spending on underutilized reserved instances?
+<ol type=""A"">
+<li>Customers can add all AWS accounts to an AWS Organization, enable Consolidated Billing, and turn off Reserved Instance sharing</li>
+<li>Customers can use Amazon Neptune to track and analyze their usage patterns, detect underutilized reserved instances, and then sell them on the Amazon EC2 Reserved Instance Marketplace</li>
+<li>Customers can use the AWS Budgets service to track the reserved instances usage and set up alert notifications when their utilization drops below the threshold that they define</li>
+<li>Customers can use Amazon CloudTrail to automatically check for unused reservations and get recommendations to reduce their bill</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"What is the AWS service that provides five times the performance of a standard MySQL database?
+<ol type=""A"">
+<li>Amazon Aurora</li>
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Neptune</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-4
+"What does AWS Service Catalog provide?
+<ol type=""A"">
+<li>It enables customers to quickly find descriptions and use cases for AWS services</li>
+<li>It enables customers to explore the different catalogs of AWS services</li>
+<li>It simplifies organizing and governing commonly deployed IT services</li>
+<li>It allows developers to deploy infrastructure on AWS using familiar programming languages</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"For managed services like Amazon DynamoDB, which of the below is AWS responsible for? (Choose TWO)
+<ol type=""A"">
+<li>Protecting credentials</li>
+<li>Logging access activity</li>
+<li>Patching the database software</li>
+<li>Operating system maintenance</li>
+<li>Creating access policies</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-4
+"Which of the following AWS Services helps with planning application migration to the AWS Cloud?
+<ol type=""A"">
+<li>AWS Snowball Migration Service</li>
+<li>AWS Application Discovery Service</li>
+<li>AWS DMS</li>
+<li>AWS Migration Hub</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-4
+"A company is trying to analyze the costs applied to their AWS account recently. Which of the following provides them the most granular data about their AWS costs and usage?
+<ol type=""A"">
+<li>Amazon Machine Image</li>
+<li>AWS Cost Explorer</li>
+<li>AWS Cost &amp; Usage Report</li>
+<li>Amazon CloudWatch</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"Which statement best describes the concept of an AWS region?
+<ol type=""A"">
+<li>An AWS Region is a geographical location with a collection of Edge locations</li>
+<li>An AWS Region is a virtual network dedicated only to a single AWS customer</li>
+<li>An AWS Region is a geographical location with a collection of Availability Zones</li>
+<li>An AWS Region represents the country where the AWS infrastructure exist</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"A company has discovered that multiple S3 buckets were deleted, but it is unclear who deleted the buckets. Which of the following can the company use to determine the identity that deleted the buckets?
+<ol type=""A"">
+<li>SNS logs</li>
+<li>SQS logs</li>
+<li>CloudWatch Logs</li>
+<li>CloudTrail logs</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-4
+"Which of the following are factors in determining the appropriate database technology to use for a specific workload? (Choose TWO)
+<ol type=""A"">
+<li>Availability Zones</li>
+<li>Data sovereignty</li>
+<li>The number of reads and writes per second</li>
+<li>The nature of the queries</li>
+<li>Software bugs</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-4
+"What are the benefits of implementing a tagging strategy for AWS resources? (Choose TWO)
+<ol type=""A"">
+<li>Quickly identify resources that belong to a specific project</li>
+<li>Quickly identify software solutions on AWS</li>
+<li>Track API calls in your AWS account</li>
+<li>Quickly identify deleted resources and their metadata</li>
+<li>Track AWS spending across multiple resources</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-4
+"What are AWS shared controls?
+<ol type=""A"">
+<li>Controls that are solely the responsibility of the customer based on the application they are deploying within AWS services</li>
+<li>Controls that a customer inherits from AWS</li>
+<li>Controls that apply to both the infrastructure layer and customer layers</li>
+<li>Controls that the customer and AWS collaborate together upon to secure the infrastructure</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-4
+"Which design principles relate to performance efficiency in AWS? (Choose TWO)
+<ol type=""A"">
+<li>Build multi-region architectures to better serve global customers</li>
+<li>Apply security at all layers</li>
+<li>Implement strong Identity and Access controls</li>
+<li>Use serverless architectures</li>
+<li>Enable audit logging</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-4
+"Which of the below are responsibilities of the customer when using Amazon EC2? (Choose TWO)
+<ol type=""A"">
+<li>Protecting sensitive data</li>
+<li>Patching of the underlying infrastructure</li>
+<li>Setup and operation of managed databases</li>
+<li>Maintaining consistent hardware components</li>
+<li>Installing and configuring third-party software</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-4
+"Why would an organization decide to use AWS over an on-premises data center? (Choose TWO)
+<ol type=""A"">
+<li>Free commercial software licenses</li>
+<li>Free technical support</li>
+<li>Elastic resources</li>
+<li>On-site visits for auditing</li>
+<li>Cost Savings</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-4
+"Which of the following AWS services can help you perform security analysis and regulatory compliance auditing? (Choose TWO)
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS Virtual Private Gateway</li>
+<li>AWS Batch</li>
+<li>Amazon ECS</li>
+<li>AWS Config</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-4
+"Which of the following is NOT a characteristic of Amazon Elastic Compute Cloud (Amazon EC2)?
+<ol type=""A"">
+<li>Amazon EC2 is considered a Serverless Web Service</li>
+<li>Amazon EC2 eliminates the need to invest in hardware upfront</li>
+<li>Amazon EC2 can launch as many or as few virtual servers as needed</li>
+<li>Amazon EC2 offers scalable computing</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-4
+"What is the AWS Compute service that executes code only when triggered by events?
+<ol type=""A"">
+<li>AWS Lambda</li>
+<li>Amazon CloudWatch</li>
+<li>AWS Transit Gateway</li>
+<li>Amazon EC2</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-4
+"Both AWS and traditional IT distributors provide a wide range of virtual servers to meet their customers’ requirements. What is the name of these virtual servers in AWS?
+<ol type=""A"">
+<li>Amazon EBS Snapshots</li>
+<li>Amazon VPC</li>
+<li>AWS Managed Servers</li>
+<li>Amazon EC2 Instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-4
+"What is the framework created by AWS Professional Services that helps organizations design a road map to successful cloud adoption?
+<ol type=""A"">
+<li>AWS Secrets Manager</li>
+<li>AWS WAF</li>
+<li>AWS CAF</li>
+<li>Amazon EFS</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"TYMO Cloud Corp is looking forward to migrating their entire on-premises data center to AWS. What tool can they use to perform a cost-benefit analysis of moving to the AWS Cloud?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS TCO Calculator</li>
+<li>AWS Budgets</li>
+<li>AWS Pricing Calculator</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-4
+"Which of the following activities supports the Operational Excellence pillar of the AWS Well-Architected Framework?
+<ol type=""A"">
+<li>Using AWS Trusted Advisor to find underutilized resources</li>
+<li>Using AWS CloudTrail to record user activities</li>
+<li>Using AWS CloudFormation to manage infrastructure as code</li>
+<li>Deploying an application in multiple Availability Zones</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"Why do many startup companies prefer AWS over traditional on-premises solutions? (Choose TWO)
+<ol type=""A"">
+<li>AWS allows them to pay later when their business succeed</li>
+<li>AWS can build complete data centers faster than any other Cloud provider</li>
+<li>Using AWS, they can reduce time-to-market by focusing on business activities rather than on building and managing data centers</li>
+<li>AWS removes the need to invest in operational expenditure</li>
+<li>Using AWS allows companies to replace large capital expenditure with low variable costs</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-4
+"What are the benefits of using DynamoDB? (Choose TWO)
+<ol type=""A"">
+<li>Automatically scales to meet required throughput capacity</li>
+<li>Provides resizable instances to match the current demand</li>
+<li>Supports both relational and non-relational data models</li>
+<li>Offers extremely low (single-digit millisecond) latency</li>
+<li>Supports the most popular NoSQL database engines such as CouchDB and MongoDB</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-4
+"Which of the following can be used to protect data at rest on Amazon S3? (Choose TWO)
+<ol type=""A"">
+<li>Versioning</li>
+<li>Deduplication</li>
+<li>Permissions</li>
+<li>Decryption</li>
+<li>Conversion</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-4
+"As part of the AWS Migration Acceleration Program (MAP), what does AWS provide to accelerate Enterprise adoption of AWS? (Choose TWO)
+<ol type=""A"">
+<li>AWS Partners</li>
+<li>AWS Artifact</li>
+<li>AWS Professional Services</li>
+<li>Amazon Athena</li>
+<li>Amazon PinPoint</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-4
+"AWS recommends some practices to help organizations avoid unexpected charges on their bill. Which of the following is NOT one of these practices?
+<ol type=""A"">
+<li>Deleting unused EBS volumes after terminating an EC2instance</li>
+<li>Deleting unused AutoScaling launch configuration</li>
+<li>Deleting unused Elastic Load Balancers</li>
+<li>Releasing unused Elastic IPs after terminating an EC2instance</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-4
+"What is the AWS tool that can help a company visualize their AWS spending in the last few months?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS Pricing Calculator</li>
+<li>AWS Budgets</li>
+<li>AWS Consolidated Billing</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-4
+"When running a workload in AWS, the customer is NOT responsible for: (Select TWO)
+<ol type=""A"">
+<li>Running penetration tests</li>
+<li>Reserving capacity</li>
+<li>Data center operations</li>
+<li>Auditing and regulatory compliance</li>
+<li>Infrastructure security</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-4
+"Which AWS service can be used to send promotional text messages (SMS) to more than 200 countries worldwide?
+<ol type=""A"">
+<li>Amazon Simple Email Service (Amazon SES)</li>
+<li>Amazon Simple Storage Service (Amazon S3)</li>
+<li>Amazon Simple Notification Service (Amazon SNS)</li>
+<li>Amazon Simple Queue Service (Amazon SQS)</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"Which of the following allows you to create new RDS instances? (Choose TWO)
+<ol type=""A"">
+<li>AWS CodeDeploy</li>
+<li>AWS Quick Starts</li>
+<li>AWS CloudFormation</li>
+<li>AWS DMS</li>
+<li>AWS Management Console</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-4
+"One of the major advantages of using AWS is cost savings. What does AWS provide to reduce the cost of running Amazon EC2 instances?
+<ol type=""A"">
+<li>Low monthly instance maintenance costs</li>
+<li>Low-cost instance tagging</li>
+<li>Per-second instance billing</li>
+<li>Low instance start-up fees</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-4
+"Which AWS Group assists customers in achieving their desired business outcomes?
+<ol type=""A"">
+<li>AWS Security Team</li>
+<li>AWS Professional Services</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Concierge Support Team</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-4
+"Which AWS service or feature is used to manage the keys used to encrypt customer data?
+<ol type=""A"">
+<li>AWS KMS</li>
+<li>AWS Service Control Policies (SCPs)</li>
+<li>Multi-Factor Authentication (MFA)</li>
+<li>Amazon Macie</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-4
+"Which AWS Service allows customers to download AWS SOC & PCI reports?
+<ol type=""A"">
+<li>AWS Well-Architected Tool</li>
+<li>AWS Artifact</li>
+<li>AWS Glue</li>
+<li>Amazon Chime</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-4

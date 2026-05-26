@@ -1,0 +1,359 @@
+"A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software.  Which AWS service can be used to accomplish this?
+<ol type=""A"">
+<li>Amazon RDS</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Aurora</li>
+<li>Amazon Redshift</li>
+</ol>"	Answer	practice-exam-21
+"A Cloud Practitioner is developing a disaster recovery plan and intends to replicate data between multiple geographic areas. Which of the following meets these requirements?
+<ol type=""A"">
+<li>AWS Accounts</li>
+<li>AWS Regions</li>
+<li>Availability Zones</li>
+<li>Edge locations</li>
+</ol>"	Answer	practice-exam-21
+"Which features and benefits does the AWS Organizations service provide? (Choose two.)
+<ol type=""A"">
+<li>Establishing real-time communications between members of an internal team</li>
+<li>Facilitating the use of NoSQL databases</li>
+<li>Providing automated security checks</li>
+<li>Implementing consolidated billing</li>
+<li>Enforcing the governance of AWS accounts</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS service is used to automate configuration management using Chef and Puppet?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>AWS OpsWorks</li>
+<li>AWS CloudFormation</li>
+<li>AWS Systems Manager</li>
+</ol>"	Answer	practice-exam-21
+"Which tool is best suited for combining the billing of AWS accounts that were previously independent from one another?
+<ol type=""A"">
+<li>Detailed billing report</li>
+<li>Consolidated billing</li>
+<li>AWS Cost and Usage report</li>
+<li>Cost allocation report</li>
+</ol>"	Answer	practice-exam-21
+"The AWS Total Cost of Ownership (TCO) Calculator is used to:
+<ol type=""A"">
+<li>receive reports that break down AWS Cloud compute costs by duration, resource, or tags</li>
+<li>estimate savings when comparing the AWS Cloud to an on-premises environment</li>
+<li>estimate a monthly bill for the AWS Cloud resources that will be used</li>
+<li>enable billing alerts to monitor actual AWS costs compared to estimated costs</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS services can be used to provide network connectivity between an on-premises network and a VPC? (Choose two.)
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>AWS Direct Connect</li>
+<li>AWS Data Pipeline</li>
+<li>AWS VPN</li>
+<li>Amazon Connect</li>
+</ol>"	Answer	practice-exam-21
+"Under the AWS shared responsibility model, which of the following are customer responsibilities? (Choose two.)
+<ol type=""A"">
+<li>Setting up server-side encryption on an Amazon S3 bucket</li>
+<li>Amazon RDS instance patching</li>
+<li>Network and firewall configurations</li>
+<li>Physical security of data center facilities</li>
+<li>Compute capacity availability</li>
+</ol>"	Answer	practice-exam-21
+"What is the MINIMUM AWS Support plan level that will provide users with access to the AWS Support API?
+<ol type=""A"">
+<li>Developer</li>
+<li>Enterprise</li>
+<li>Business</li>
+<li>Basic</li>
+</ol>"	Answer	practice-exam-21
+"A company has deployed several relational databases on Amazon EC2 instances. Every month, the database software vendor releases new security patches that need to be applied to the databases.  What is the MOST efficient way to apply the security patches?
+<ol type=""A"">
+<li>Connect to each database instance on a monthly basis, and download and apply the necessary security patches from the vendor</li>
+<li>Enable automatic patching for the instances using the Amazon RDS console</li>
+<li>In AWS Config, configure a rule for the instances and the required patch level</li>
+<li>Use AWS Systems Manager to automate database patching according to a schedule</li>
+</ol>"	Answer	practice-exam-21
+"A company wants to use Amazon Elastic Compute Cloud (Amazon EC2) to deploy a global commercial application. The deployment solution should be built with the highest redundancy and fault tolerance.  Based on this situation, the Amazon EC2 instances should be deployed:
+<ol type=""A"">
+<li>in a single Availability Zone in one AWS Region</li>
+<li>with multiple Elastic Network Interfaces belonging to different subnets</li>
+<li>across multiple Availability Zones in one AWS Region</li>
+<li>across multiple Availability Zones in two AWS Regions</li>
+</ol>"	Answer	practice-exam-21
+"A company has an application with users in both Australia and Brazil. All the company infrastructure is currently provisioned in the Asia Pacific (Sydney) Region in Australia, and Brazilian users are experiencing high latency.  What should the company do to reduce latency?
+<ol type=""A"">
+<li>Implement AWS Direct Connect for users in Brazil</li>
+<li>Provision resources in the South America (São Paulo) Region in Brazil</li>
+<li>Use AWS Transit Gateway to quickly route users from Brazil to the application</li>
+<li>Launch additional Amazon EC2 instances in Sydney to handle the demand</li>
+</ol>"	Answer	practice-exam-21
+"An Amazon EC2 instance runs only when needed yet must remain active for the duration of the process.  What is the most appropriate purchasing option?
+<ol type=""A"">
+<li>Dedicated Instances</li>
+<li>Spot Instances</li>
+<li>On-Demand Instances</li>
+<li>Reserved Instances</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS dashboard displays relevant and timely information to help users manage events in progress, and provides proactive notifications to help plan for scheduled activities?
+<ol type=""A"">
+<li>AWS Service Health Dashboard</li>
+<li>AWS Personal Health Dashboard</li>
+<li>AWS Trusted Advisor dashboard</li>
+<li>Amazon CloudWatch dashboard</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS hybrid storage service enables a user's on-premises applications to seamlessly use AWS Cloud storage?
+<ol type=""A"">
+<li>AWS Backup</li>
+<li>Amazon Connect</li>
+<li>AWS Direct Connect</li>
+<li>AWS Storage Gateway</li>
+</ol>"	Answer	practice-exam-21
+"Which of the following acts as a virtual firewall at the Amazon EC2 instance level to control traffic for one or more instances?
+<ol type=""A"">
+<li>Access keys</li>
+<li>Virtual private gateways</li>
+<li>Security groups</li>
+<li>Access Control Lists (ACL)</li>
+</ol>"	Answer	practice-exam-21
+"What is the most efficient way to establish network connectivity from on-premises to multiple VPCs in different AWS Regions?
+<ol type=""A"">
+<li>Use AWS Direct Connect</li>
+<li>Use AWS VPN</li>
+<li>Use AWS Client VPN</li>
+<li>Use an AWS Transit Gateway</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS Support plan provides access to architectural and operational reviews, as well as 24/7 access to Senior Cloud Support Engineers through email, online chat, and phone?
+<ol type=""A"">
+<li>Basic</li>
+<li>Business</li>
+<li>Developer</li>
+<li>Enterprise</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS service or feature helps restrict the AWS services, resources, and individual API actions the users and roles in each member account can access?
+<ol type=""A"">
+<li>Amazon Cognito</li>
+<li>AWS Organizations</li>
+<li>AWS Shield</li>
+<li>AWS Firewall Manager</li>
+</ol>"	Answer	practice-exam-21
+"What is the best resource for a user to find compliance-related information and reports about AWS?
+<ol type=""A"">
+<li>AWS Artifact</li>
+<li>AWS Marketplace</li>
+<li>Amazon Inspector</li>
+<li>AWS Support</li>
+</ol>"	Answer	practice-exam-21
+"Which Amazon S3 storage class is optimized to provide access to data with lower resiliency requirements, but rapid access when needed such as duplicate backups?
+<ol type=""A"">
+<li>Amazon S3 Standard</li>
+<li>Amazon S3 Glacier Deep Archive</li>
+<li>Amazon S3 One Zone-Infrequent Access</li>
+<li>Amazon S3 Glacier</li>
+</ol>"	Answer	practice-exam-21
+"What is an Availability Zone in AWS?
+<ol type=""A"">
+<li>One or more physical data centers</li>
+<li>A completely isolated geographic location</li>
+<li>One or more edge locations based around the world</li>
+<li>A data center location with a single source of power and networking</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS services can be used as infrastructure automation tools? (Choose two.)
+<ol type=""A"">
+<li>AWS CloudFormation</li>
+<li>Amazon CloudFront</li>
+<li>AWS Batch</li>
+<li>AWS OpsWorks</li>
+<li>Amazon QuickSight</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS service enables users to create copies of resources across AWS Regions?
+<ol type=""A"">
+<li>Amazon ElastiCache</li>
+<li>AWS CloudFormation</li>
+<li>AWS CloudTrail</li>
+<li>AWS Systems Manager</li>
+</ol>"	Answer	practice-exam-21
+"A user would like to encrypt data that is received, stored, and managed by AWS CloudTrail.  Which AWS service will provide this capability?
+<ol type=""A"">
+<li>AWS Secrets Manager</li>
+<li>AWS Systems Manager</li>
+<li>AWS Key Management Service (AWS KMS)</li>
+<li>AWS Certificate Manager</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS Cloud benefit eliminates the need for users to try estimating future infrastructure usage?
+<ol type=""A"">
+<li>Easy and fast deployment of applications in multiple Regions around the world</li>
+<li>Security of the AWS Cloud</li>
+<li>Elasticity of the AWS Cloud</li>
+<li>Lower variable costs due to massive economies of scale</li>
+</ol>"	Answer	practice-exam-21
+"What credential components are required to gain programmatic access to an AWS account? (Choose two.)
+<ol type=""A"">
+<li>An access key ID</li>
+<li>A primary key</li>
+<li>A secret access key</li>
+<li>A user ID</li>
+<li>A secondary key</li>
+</ol>"	Answer	practice-exam-21
+"Which of the following are AWS compute services? (Select two.)
+<ol type=""A"">
+<li>Amazon Lightsail</li>
+<li>AWS Systems Manager</li>
+<li>AWS CloudFormation</li>
+<li>AWS Batch</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-21
+"How can a company separate costs for network traffic, Amazon EC2, Amazon S3, and other AWS services by department?
+<ol type=""A"">
+<li>Add department-specific tags to each resource</li>
+<li>Create a separate VPC for each department</li>
+<li>Create a separate AWS account for each department</li>
+<li>Use AWS Organizations</li>
+</ol>"	Answer	practice-exam-21
+"What is a benefit of consolidated billing for AWS accounts?
+<ol type=""A"">
+<li>Access to AWS Personal Health Dashboard</li>
+<li>Combined usage volume discounts</li>
+<li>Improved account security</li>
+<li>Centralized AWS IAM</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS service will allow a user to set custom cost and usage limits, and will alert when the thresholds are exceeded?
+<ol type=""A"">
+<li>AWS Organizations</li>
+<li>AWS Budgets</li>
+<li>Cost Explorer</li>
+<li>AWS Trusted Advisor</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS service provides the ability to detect inadvertent data leaks of personally identifiable information (PII) and user credential data?
+<ol type=""A"">
+<li>Amazon GuardDuty</li>
+<li>Amazon Inspector</li>
+<li>Amazon Macie</li>
+<li>AWS Shield</li>
+</ol>"	Answer	practice-exam-21
+"Which tool can be used to monitor AWS service limits?
+<ol type=""A"">
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Personal Health Dashboard</li>
+<li>AWS Cost and Usage report</li>
+</ol>"	Answer	practice-exam-21
+"A company has distributed its workload on both the AWS Cloud and some on-premises servers.  What type of architecture is this?
+<ol type=""A"">
+<li>Virtual private network</li>
+<li>Virtual private cloud</li>
+<li>Hybrid cloud</li>
+<li>Private cloud</li>
+</ol>"	Answer	practice-exam-21
+"Which of the following describes a security best practice that can be implemented using AWS IAM?
+<ol type=""A"">
+<li>Disable AWS Management Console access for all users</li>
+<li>Generate secret keys for every IAM user</li>
+<li>Grant permissions to users who are required to perform a given task only</li>
+<li>Store AWS credentials within Amazon EC2 instances</li>
+</ol>"	Answer	practice-exam-21
+"What can be used to automate and manage secure, well-architected, multi-account AWS environments?
+<ol type=""A"">
+<li>AWS shared responsibility model</li>
+<li>AWS Control Tower</li>
+<li>AWS Security Hub</li>
+<li>AWS Well-Architected Tool</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS service or feature allows a user to easily scale connectivity among thousands of VPCs?
+<ol type=""A"">
+<li>VPC peering</li>
+<li>AWS Transit Gateway</li>
+<li>AWS Direct Connect</li>
+<li>AWS Global Accelerator</li>
+</ol>"	Answer	practice-exam-21
+"A company needs protection from expanded distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events.  Which AWS managed service will meet these requirements?
+<ol type=""A"">
+<li>AWS Shield Advanced</li>
+<li>AWS Firewall Manager</li>
+<li>AWS WAF</li>
+<li>Amazon GuardDuty</li>
+</ol>"	Answer	practice-exam-21
+"A company's application has flexible start and end times.  Which Amazon EC2 pricing model will be the MOST cost-effective?
+<ol type=""A"">
+<li>On-Demand Instances</li>
+<li>Spot Instances</li>
+<li>Reserved Instances</li>
+<li>Dedicated Hosts</li>
+</ol>"	Answer	practice-exam-21
+"Under the AWS shared responsibility model, what are the customer's responsibilities? (Choose two.)
+<ol type=""A"">
+<li>Physical and environmental security</li>
+<li>Physical network devices including firewalls</li>
+<li>Storage device decommissioning</li>
+<li>Security of data in transit</li>
+<li>Data integrity authentication</li>
+</ol>"	Answer	practice-exam-21
+"A cloud practitioner has a data analysis workload that is infrequently executed and can be interrupted without harm. To optimize for cost, which Amazon EC2 purchasing option should be used?
+<ol type=""A"">
+<li>On-Demand Instances</li>
+<li>Reserved Instances</li>
+<li>Spot Instances</li>
+<li>Dedicated Hosts</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS container service will help a user install, operate, and scale the cluster management infrastructure?
+<ol type=""A"">
+<li>Amazon Elastic Container Registry (Amazon ECR)</li>
+<li>AWS Elastic Beanstalk</li>
+<li>Amazon Elastic Container Service (Amazon ECS)</li>
+<li>Amazon Elastic Block Store (Amazon EBS)</li>
+</ol>"	Answer	practice-exam-21
+"Which of the following allows an application running on an Amazon EC2 instance to securely write data to an Amazon S3 bucket without using long term credentials?
+<ol type=""A"">
+<li>Amazon Cognito</li>
+<li>AWS Shield</li>
+<li>AWS IAM role</li>
+<li>AWS IAM user access key</li>
+</ol>"	Answer	practice-exam-21
+"A company with a Developer-level AWS Support plan provisioned an Amazon RDS database and cannot connect to it.  Who should the developer contact for this level of support?
+<ol type=""A"">
+<li>AWS Support using a support case</li>
+<li>AWS Professional Services</li>
+<li>AWS technical account manager</li>
+<li>AWS consulting partners</li>
+</ol>"	Answer	practice-exam-21
+"What is the purpose of having an internet gateway within a VPC?
+<ol type=""A"">
+<li>To create a VPN connection to the VPC</li>
+<li>To allow communication between the VPC and the Internet</li>
+<li>To impose bandwidth constraints on internet traffic</li>
+<li>To load balance traffic from the Internet across Amazon EC2 instances</li>
+</ol>"	Answer	practice-exam-21
+"A company must ensure that its endpoint for a database instance remains the same after a single Availability Zone service interruption. The application needs to resume database operations without the need for manual administrative intervention.  How can these requirements be met?
+<ol type=""A"">
+<li>Use multiple Amazon Route 53 routes to the standby database instance endpoint hosted on AWS Storage Gateway</li>
+<li>Configure Amazon RDS Multi-Availability Zone deployments with automatic failover to the standby</li>
+<li>Add multiple Application Load Balancers and deploy the database instance with AWS Elastic Beanstalk</li>
+<li>Deploy a single Network Load Balancer to distribute incoming traffic across multiple Amazon CloudFront origins</li>
+</ol>"	Answer	practice-exam-21
+"Which AWS managed service can be used to distribute traffic between one or more Amazon EC2 instances?
+<ol type=""A"">
+<li>NAT gateway</li>
+<li>Elastic Load Balancing</li>
+<li>Amazon Athena</li>
+<li>AWS PrivateLink</li>
+</ol>"	Answer	practice-exam-21
+"AWS Trusted Advisor provides recommendations on which of the following? (Choose two.)
+<ol type=""A"">
+<li>Cost optimization</li>
+<li>Auditing</li>
+<li>Serverless architecture</li>
+<li>Performance</li>
+<li>Scalability</li>
+</ol>"	Answer	practice-exam-21
+"Which of the following tasks can only be performed after signing in with AWS account root user credentials? (Choose two.)
+<ol type=""A"">
+<li>Closing an AWS account</li>
+<li>Creating a new IAM policy</li>
+<li>Changing AWS Support plans</li>
+<li>Attaching a role to an Amazon EC2 instance</li>
+<li>Generating access keys for IAM users</li>
+</ol>"	Answer	practice-exam-21
+"Fault tolerance refers to:
+<ol type=""A"">
+<li>the ability of an application to accommodate growth without changing design</li>
+<li>how well and how quickly an application's environment can have lost data restored</li>
+<li>how secure your application is</li>
+<li>the built-in redundancy of an application's components</li>
+</ol>"	Answer	practice-exam-21

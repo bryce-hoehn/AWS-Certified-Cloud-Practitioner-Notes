@@ -1,0 +1,358 @@
+"A company operating in the AWS Cloud requires separate invoices for specific environments, such as development, testing, and production.  How can this be achieved?
+<ol type=""A"">
+<li>Use multiple AWS accounts</li>
+<li>Use resource tagging</li>
+<li>Use multiple VPCs</li>
+<li>Use Cost Explorer</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service can be used in the application deployment process?
+<ol type=""A"">
+<li>AWS AppSync</li>
+<li>AWS Batch</li>
+<li>AWS CodePipeline</li>
+<li>AWS DataSync</li>
+</ol>"	Answer	practice-exam-22
+"What can be used to reduce the cost of running Amazon EC2 instances? (Choose two.)
+<ol type=""A"">
+<li>Spot Instances for stateless and flexible workloads</li>
+<li>Memory optimized instances for high-compute workloads</li>
+<li>On-Demand Instances for high-cost and sustained workloads</li>
+<li>Reserved Instances for sustained workloads</li>
+<li>Spend limits set using AWS Budgets</li>
+</ol>"	Answer	practice-exam-22
+"A company is launching an e-commerce site that will store and process credit card data. The company requires information about AWS compliance reports and AWS agreements.  Which AWS service provides on-demand access to these items?
+<ol type=""A"">
+<li>AWS Certificate Manager</li>
+<li>AWS Config</li>
+<li>AWS Artifact</li>
+<li>AWS CloudTrail</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service or feature allows the user to manage cross-region application traffic?
+<ol type=""A"">
+<li>Amazon AppStream 2.0</li>
+<li>Amazon VPC</li>
+<li>Elastic Load Balancer</li>
+<li>Amazon Route 53</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service can be used to track unauthorized API calls?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>AWS CloudTrail</li>
+<li>AWS Trusted Advisor</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-22
+"A user needs to regularly audit and evaluate the setup of all AWS resources, identify non-compliant accounts, and be notified when a resource changes.  Which AWS service can be used to meet these requirements?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS Config</li>
+<li>AWS Resource Access Manager</li>
+<li>AWS Systems Manager</li>
+</ol>"	Answer	practice-exam-22
+"A user is planning to launch two additional Amazon EC2 instances to increase availability.  Which action should the user take?
+<ol type=""A"">
+<li>Launch the instances across multiple Availability Zones in a single AWS Region</li>
+<li>Launch the instances as EC2 Reserved Instances in the same AWS Region and the same Availability Zone</li>
+<li>Launch the instances in multiple AWS Regions, but in the same Availability Zone</li>
+<li>Launch the instances as EC2 Spot Instances in the same AWS Region, but in different Availability Zones</li>
+</ol>"	Answer	practice-exam-22
+"A company must store critical business data in Amazon S3 with a backup to another AWS Region.  How can this be achieved?
+<ol type=""A"">
+<li>Use an Amazon CloudFront Content Delivery Network (CDN) to cache data globally</li>
+<li>Set up Amazon S3 cross-region replication to another AWS Region</li>
+<li>Configure the AWS Backup service to back up to the data to another AWS Region</li>
+<li>Take Amazon S3 bucket snapshots and copy that data to another AWS Region</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS Cloud service can send alerts to customers if custom spending thresholds are exceeded?
+<ol type=""A"">
+<li>AWS Budgets</li>
+<li>AWS Cost Explorer</li>
+<li>AWS Cost Allocation Tags</li>
+<li>AWS Organizations</li>
+</ol>"	Answer	practice-exam-22
+"What is the recommended method to request penetration testing on AWS resources?
+<ol type=""A"">
+<li>Open a support case</li>
+<li>Fill out the Penetration Testing Request Form</li>
+<li>Request a penetration test from your technical account manager</li>
+<li>Contact your AWS sales representative</li>
+</ol>"	Answer	practice-exam-22
+"A user needs to automatically discover, classify, and protect sensitive data stored in Amazon S3.  Which AWS service can meet these requirements?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>Amazon Macie</li>
+<li>Amazon GuardDuty</li>
+<li>AWS Secrets Manager</li>
+</ol>"	Answer	practice-exam-22
+"Which components are required to build a successful site-to-site VPN connection on AWS? (Choose two.)
+<ol type=""A"">
+<li>Internet gateway</li>
+<li>NAT gateway</li>
+<li>Customer gateway</li>
+<li>Transit gateway</li>
+<li>Virtual private gateway</li>
+</ol>"	Answer	practice-exam-22
+"Which Amazon EC2 pricing option is best suited for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted?
+<ol type=""A"">
+<li>Spot Instances</li>
+<li>Dedicated Hosts</li>
+<li>On-Demand Instances</li>
+<li>Reserved Instances</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS cloud architecture principle states that systems should reduce interdependencies?
+<ol type=""A"">
+<li>Scalability</li>
+<li>Services, not servers</li>
+<li>Removing single points of failure</li>
+<li>Loose coupling</li>
+</ol>"	Answer	practice-exam-22
+"What is the MOST effective resource for staying up to date on AWS security announcements?
+<ol type=""A"">
+<li>AWS Personal Health Dashboard</li>
+<li>AWS Secrets Manager</li>
+<li>AWS Security Bulletins</li>
+<li>Amazon Inspector</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service offers persistent storage for a file system?
+<ol type=""A"">
+<li>Amazon S3</li>
+<li>Amazon EC2 instance store</li>
+<li>Amazon Elastic Block Store (Amazon EBS)</li>
+<li>Amazon ElastiCache</li>
+</ol>"	Answer	practice-exam-22
+"Which of the following allows AWS users to manage cost allocations for billing?
+<ol type=""A"">
+<li>Tagging resources</li>
+<li>Limiting who can create resources</li>
+<li>Adding a secondary payment method</li>
+<li>Running all operations on a single AWS account</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service allows users to download security and compliance reports about the AWS infrastructure on demand?
+<ol type=""A"">
+<li>Amazon GuardDuty</li>
+<li>AWS Security Hub</li>
+<li>AWS Artifact</li>
+<li>AWS Shield</li>
+</ol>"	Answer	practice-exam-22
+"Which of the following AWS services are serverless? (Choose two.)
+<ol type=""A"">
+<li>AWS Lambda</li>
+<li>Amazon Elasticsearch Service</li>
+<li>AWS Elastic Beanstalk</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Redshift</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS managed services can be used to extend an on-premises data center to the AWS network? (Choose two.)
+<ol type=""A"">
+<li>AWS VPN</li>
+<li>NAT gateway</li>
+<li>AWS Direct Connect</li>
+<li>Amazon Connect</li>
+<li>Amazon Route 53</li>
+</ol>"	Answer	practice-exam-22
+"Which requirement must be met for a member account to be unlinked from an AWS Organizations account?
+<ol type=""A"">
+<li>The linked account must be actively compliant with AWS System and Organization Controls (SOC)</li>
+<li>The payer and the linked account must both create AWS Support cases to request that the member account be unlinked from the organization</li>
+<li>The member account must meet the requirements of a standalone account</li>
+<li>The payer account must be used to remove the linked account from the organization</li>
+</ol>"	Answer	practice-exam-22
+"What AWS benefit refers to a customer's ability to deploy applications that scale up and down the meet variable demand?
+<ol type=""A"">
+<li>Elasticity</li>
+<li>Agility</li>
+<li>Security</li>
+<li>Scalability</li>
+</ol>"	Answer	practice-exam-22
+"During a compliance review, one of the auditors requires a copy of the AWS SOC 2 report.  Which service should be used to submit this request?
+<ol type=""A"">
+<li>AWS Personal Health Dashboard</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Artifact</li>
+<li>Amazon S3</li>
+</ol>"	Answer	practice-exam-22
+"A company wants to set up a highly available workload in AWS with a disaster recovery plan that will allow the company to recover in case of a regional service interruption.  Which configuration will meet these requirements?
+<ol type=""A"">
+<li>Run on two Availability Zones in one AWS Region, using the additional Availability Zones in the AWS Region for the disaster recovery site</li>
+<li>Run on two Availability Zones in one AWS Region, using another AWS Region for the disaster recovery site</li>
+<li>Run on two Availability Zones in one AWS Region, using a local AWS Region for the disaster recovery site</li>
+<li>Run across two AWS Regions, using a third AWS Region for the disaster recovery site</li>
+</ol>"	Answer	practice-exam-22
+"A company has a 500 TB image repository that needs to be transported to AWS for processing.  Which AWS service can import this data MOST cost-effectively?
+<ol type=""A"">
+<li>AWS Snowball</li>
+<li>AWS Direct Connect</li>
+<li>AWS VPN</li>
+<li>Amazon S3</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service can run a managed PostgreSQL database that provides online transaction processing (OLTP)?
+<ol type=""A"">
+<li>Amazon DynamoDB</li>
+<li>Amazon Athena</li>
+<li>Amazon RDS</li>
+<li>Amazon EMR</li>
+</ol>"	Answer	practice-exam-22
+"Which of the following assist in identifying costs by department? (Choose two.)
+<ol type=""A"">
+<li>Using tags on resources</li>
+<li>Using multiple AWS accounts</li>
+<li>Using an account manager</li>
+<li>Using AWS Trusted Advisor</li>
+<li>Using Consolidated Billing</li>
+</ol>"	Answer	practice-exam-22
+"A company wants to allow full access to an Amazon S3 bucket for a particular user.  Which element in the S3 bucket policy holds the user details that describe who needs access to the S3 bucket?
+<ol type=""A"">
+<li>Principal</li>
+<li>Action</li>
+<li>Resource</li>
+<li>Statement</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service allows for effective cost management of multiple AWS accounts?
+<ol type=""A"">
+<li>AWS Organizations</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Direct Connect</li>
+<li>Amazon Connect</li>
+</ol>"	Answer	practice-exam-22
+"A company is piloting a new customer-facing application on Amazon Elastic Compute Cloud (Amazon EC2) for one month.  What pricing model is appropriate?
+<ol type=""A"">
+<li>Reserved Instances</li>
+<li>Spot Instances</li>
+<li>On-Demand Instances</li>
+<li>Dedicated Hosts</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS tools automatically forecast future AWS costs?
+<ol type=""A"">
+<li>AWS Support Center</li>
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>AWS Simple Monthly Calculator</li>
+<li>Cost Explorer</li>
+</ol>"	Answer	practice-exam-22
+"Under the AWS shared responsibility model, which of the following is a responsibility of AWS?
+<ol type=""A"">
+<li>Enabling server-side encryption for objects stored in S3</li>
+<li>Applying AWS IAM security policies</li>
+<li>Patching the operating system on an Amazon EC2 instance</li>
+<li>Applying updates to the hypervisor</li>
+</ol>"	Answer	practice-exam-22
+"A user is able to set up a master payer account to view consolidated billing reports through:
+<ol type=""A"">
+<li>AWS Budgets</li>
+<li>Amazon Macie</li>
+<li>Amazon QuickSight</li>
+<li>AWS Organizations</li>
+</ol>"	Answer	practice-exam-22
+"Performing operations as code is a design principle that supports which pillar of the AWS Well-Architected Framework?
+<ol type=""A"">
+<li>Performance efficiency</li>
+<li>Operational excellence</li>
+<li>Reliability</li>
+<li>Security</li>
+</ol>"	Answer	practice-exam-22
+"Which design principle is achieved by following the reliability pillar of the AWS Well-Architected Framework?
+<ol type=""A"">
+<li>Vertical scaling</li>
+<li>Manual failure recovery</li>
+<li>Testing recovery procedures</li>
+<li>Changing infrastructure manually</li>
+</ol>"	Answer	practice-exam-22
+"What is a characteristic of Convertible Reserved Instances (RIs)?
+<ol type=""A"">
+<li>Users can exchange Convertible RIs for other Convertible RIs from a different instance family with an equal or higher value than the Convertible Reserved Instances that you are exchanging</li>
+<li>Users can exchange Convertible RIs for other Convertible RIs in different AWS Regions</li>
+<li>Users can sell and buy Convertible RIs on the AWS Marketplace</li>
+<li>Users can shorten the term of their Convertible RIs by merging them with other Convertible RIs</li>
+</ol>"	Answer	practice-exam-22
+"The user is fully responsible for which action when running workloads on AWS?
+<ol type=""A"">
+<li>Patching the infrastructure components</li>
+<li>Implementing controls to route application traffic</li>
+<li>Maintaining physical and environmental controls</li>
+<li>Maintaining the underlying infrastructure components</li>
+</ol>"	Answer	practice-exam-22
+"An architecture design includes Amazon EC2, an Elastic Load Balancer, and Amazon RDS.  What is the BEST way to get a monthly cost estimation for this architecture?
+<ol type=""A"">
+<li>Open an AWS Support case, provide the architecture proposal, and ask for a monthly cost estimation</li>
+<li>Collect the published prices of the AWS services and calculate the monthly estimate</li>
+<li>Use the AWS Simple Monthly Calculator to estimate the monthly cost</li>
+<li>Use the AWS Total Cost of Ownership (TCO) Calculator to estimate the monthly cost</li>
+</ol>"	Answer	practice-exam-22
+"Which are benefits of using Amazon RDS over Amazon EC2 when running relational databases on AWS? (Choose two.)
+<ol type=""A"">
+<li>Automated backups</li>
+<li>Schema management</li>
+<li>Indexing of tables</li>
+<li>Software patching</li>
+<li>Extract, transform, and load (ETL) management</li>
+</ol>"	Answer	practice-exam-22
+"What does the Amazon S3 Intelligent-Tiering storage class offer?
+<ol type=""A"">
+<li>Payment flexibility by reserving storage capacity</li>
+<li>Long-term retention of data by copying the data to an encrypted Amazon Elastic Block Store (Amazon EBS) volume</li>
+<li>Automatic cost savings by moving objects between tiers based on access pattern changes</li>
+<li>Secure, durable, and lowest cost storage for data archival</li>
+</ol>"	Answer	practice-exam-22
+"A company has multiple data sources across the organization and wants to consolidate data into one data warehouse.  Which AWS service can be used to meet this requirement?
+<ol type=""A"">
+<li>Amazon DynamoDB</li>
+<li>Amazon Redshift</li>
+<li>Amazon Athena</li>
+<li>Amazon QuickSight</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS service can be used to track resource changes and establish compliance?
+<ol type=""A"">
+<li>Amazon CloudWatch</li>
+<li>AWS Config</li>
+<li>AWS CloudTrail</li>
+<li>AWS Trusted Advisor</li>
+</ol>"	Answer	practice-exam-22
+"A user has underutilized on-premises resources.  Which AWS Cloud concept can BEST address this issue?
+<ol type=""A"">
+<li>High availability</li>
+<li>Elasticity</li>
+<li>Security</li>
+<li>Loose coupling</li>
+</ol>"	Answer	practice-exam-22
+"A user has a stateful workload that will run on Amazon EC2 for the next 3 years.  What is the MOST cost-effective pricing model for this workload?
+<ol type=""A"">
+<li>On-Demand Instances</li>
+<li>Reserved Instances</li>
+<li>Dedicated Instances</li>
+<li>Spot Instances</li>
+</ol>"	Answer	practice-exam-22
+"A cloud practitioner needs an Amazon EC2 instance to launch and run for 7 hours without interruptions.  What is the most suitable and cost-effective option for this task?
+<ol type=""A"">
+<li>On-Demand Instance</li>
+<li>Reserved Instance</li>
+<li>Dedicated Host</li>
+<li>Spot Instance</li>
+</ol>"	Answer	practice-exam-22
+"Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)
+<ol type=""A"">
+<li>Providing high-performance container orchestration</li>
+<li>Creating and rotating encryption keys</li>
+<li>Detecting underutilized resources to save costs</li>
+<li>Improving security by proactively monitoring the AWS environment</li>
+<li>Implementing enforced tagging across AWS resources</li>
+</ol>"	Answer	practice-exam-22
+"A developer has been hired by a large company and needs AWS credentials.  Which are security best practices that should be followed? (Choose two.)
+<ol type=""A"">
+<li>Grant the developer access to only the AWS resources needed to perform the job</li>
+<li>Share the AWS account root user credentials with the developer</li>
+<li>Add the developer to the administrator's group in AWS IAM</li>
+<li>Configure a password policy that ensures the developer's password cannot be changed</li>
+<li>Ensure the account password policy requires a minimum length</li>
+</ol>"	Answer	practice-exam-22
+"Which AWS storage service is designed to transfer petabytes of data in and out of the cloud?
+<ol type=""A"">
+<li>AWS Storage Gateway</li>
+<li>Amazon S3 Glacier Deep Archive</li>
+<li>Amazon Lightsail</li>
+<li>AWS Snowball</li>
+</ol>"	Answer	practice-exam-22
+"Which service provides a user the ability to warehouse data in the AWS Cloud?
+<ol type=""A"">
+<li>Amazon EFS</li>
+<li>Amazon Redshift</li>
+<li>Amazon RDS</li>
+<li>Amazon VPC</li>
+</ol>"	Answer	practice-exam-22

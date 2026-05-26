@@ -1,0 +1,462 @@
+"How can a company reduce its Total Cost of Ownership (TCO) using AWS?
+<ol type=""A"">
+<li>By minimizing large capital expenditures</li>
+<li>By having no responsibility for third-party license costs</li>
+<li>By having no operational expenditures</li>
+<li>By having AWS manage applications</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Select TWO)
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS Online Tech Talks</li>
+<li>AWS Blog</li>
+<li>AWS Forums</li>
+<li>AWS Classroom Training</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-11
+"Which of the following will enhance the security of access to the AWS Management Console’? (Select TWO)
+<ol type=""A"">
+<li>AWS Secrets Manager</li>
+<li>AWS Certificate Manager</li>
+<li>AWS Multi-Factor Authentication (AWS MFA)</li>
+<li>Security groups</li>
+<li>Password policies</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-11
+"Which of the following features can be configured through the Amazon Virtual Private Cloud (Amazon VPC) Dashboard? (Select TWO)
+<ol type=""A"">
+<li>Amazon CloudFront distributions</li>
+<li>Amazon Route 53</li>
+<li>Security Groups</li>
+<li>Subnets</li>
+<li>Elastic Load Balancing</li>
+</ol>"	"Answer
+  Correct answer: C, D
+"	practice-exam-11
+"For which auditing process does AWS have sole responsibility?
+<ol type=""A"">
+<li>AWS IAM policies</li>
+<li>Physical security</li>
+<li>Amazon S3 bucket policies</li>
+<li>AWS CloudTrail Logs</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"Which of the following are advantages of AWS consolidated billing? (Select TWO)
+<ol type=""A"">
+<li>The ability to receive one bill for multiple accounts</li>
+<li>Service limits increasing by default in all accounts</li>
+<li>A fixed discount on the monthly bill</li>
+<li>Potential volume discounts, as usage in all accounts is combined</li>
+<li>The automatic extension of the master account’s AWS support plan to all accounts</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-11
+"Which of the following common IT tasks can AWS cover to free up company IT resources? (Select TWO)
+<ol type=""A"">
+<li>Patching databases software</li>
+<li>Testing application releases</li>
+<li>Backing up databases</li>
+<li>Creating database schema</li>
+<li>Running penetration tests</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-11
+"A company wants to expand from one AWS Region into a second AWS Region. What does the company need to do to start supporting the new Region?
+<ol type=""A"">
+<li>Contact an AWS Account Manager to sign a new contract</li>
+<li>Move an Availability Zone to the new Region</li>
+<li>Begin deploying resources in the second Region</li>
+<li>Download the AWS Management Console for the new Region</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"Why is it beneficial to use Elastic Load Balancers with applications?
+<ol type=""A"">
+<li>They allow for the conversion from Application Load</li>
+<li>Balancers to Classic Load Balancers</li>
+<li>They are capable of handling constant changes in network traffic patterns</li>
+<li>They automatically adjust capacity. They are provided at no charge to users</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"Which is the MINIMUM AWS Support plan that allows for one-hour target response time for support cases?
+<ol type=""A"">
+<li>Enterprise</li>
+<li>Business</li>
+<li>Developer</li>
+<li>Basic</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
+<ol type=""A"">
+<li>Amazon S3</li>
+<li>Amazon Glacier</li>
+<li>Amazon EBS</li>
+<li>Amazon EC2 Instance Store</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice areas?
+<ol type=""A"">
+<li>AWS Enterprise Support</li>
+<li>AWS Solutions Architects</li>
+<li>AWS Professional Services</li>
+<li>AWS Account Managers</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption Which AWS Support plan meets these requirements at the LOWEST cost?
+<ol type=""A"">
+<li>Basic</li>
+<li>Developer</li>
+<li>Business</li>
+<li>Enterprise</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?
+<ol type=""A"">
+<li>AWS Config</li>
+<li>AWS Trusted Advisor</li>
+<li>Amazon CloudWatch</li>
+<li>Amazon Inspector</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"How does AWS Trusted Advisor provide guidance to users of the AWS Cloud? (Select TWO)
+<ol type=""A"">
+<li>It identifies software vulnerabilities in applications running on AWS</li>
+<li>It provides a list of cost optimization recommendations based on current AWS usage</li>
+<li>It detects potential security vulnerabilities caused by permissions settings on account resources</li>
+<li>It automatically corrects potential security issues caused by permissions settings on account resources</li>
+<li>It provides proactive alerting whenever an Amazon EC2 instance has been compromised</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-11
+"Which AWS managed service is used to host databases?
+<ol type=""A"">
+<li>AWS Batch</li>
+<li>AWS Artifact</li>
+<li>AWS Data Pipeline</li>
+<li>Amazon RDS</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"Which of the following Identity and Access Management (IAM) entities is associated with an access key ID and secret access key when using AWS Command Line Interface (AWS CLI)?
+<ol type=""A"">
+<li>IAM group</li>
+<li>IAM user</li>
+<li>IAM role</li>
+<li>IAM policy</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"Under the shared responsibility model, which of the following is the customer responsible for?
+<ol type=""A"">
+<li>Ensuring that disk drives are wiped after use</li>
+<li>Ensuring that firmware is updated on hardware devices</li>
+<li>Ensuring that data is encrypted at rest</li>
+<li>Ensuring that network cables are category six or higher</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"Which AWS service provides a simple and scalable shared file storage solution for use with Linux-based AWS and on-premises servers?
+<ol type=""A"">
+<li>Amazon S3</li>
+<li>Amazon Glacier</li>
+<li>Amazon EBS</li>
+<li>Amazon EFS</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"What credential components are required to gain programmatic access to an AWS account? (Select TWO)
+<ol type=""A"">
+<li>An access key ID</li>
+<li>A primary key</li>
+<li>A secret access key</li>
+<li>A user ID</li>
+<li>A secondary key</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-11
+"Which of the following is a shared control between the customer and AWS?
+<ol type=""A"">
+<li>Providing a key for Amazon S3 client-side encryption</li>
+<li>Configuration of an Amazon EC2 instance</li>
+<li>Environmental controls of physical AWS data centers</li>
+<li>Awareness</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"Which type of AWS storage is ephemeral and is deleted when an instance is stopped Of terminated?
+<ol type=""A"">
+<li>Amazon EBS</li>
+<li>Amazon EC2 instance store</li>
+<li>Amazon EFS</li>
+<li>Amazon S3</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"Which of the following is an advantage of consolidated billing on AWS?
+<ol type=""A"">
+<li>Volume pricing qualification</li>
+<li>Shared access permissions</li>
+<li>Multiple bills per account</li>
+<li>Eliminates the need for tagging</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"Which services are parts of the AWS serverless platform?
+<ol type=""A"">
+<li>Amazon EC2, Amazon S3, Amazon Athena</li>
+<li>Amazon Kinesis, Amazon SQS, Amazon EMR</li>
+<li>AWS Step Functions, Amazon DynamoDB, Amazon SNS</li>
+<li>Amazon Athena, Amazon Cognito, Amazon EC2</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?
+<ol type=""A"">
+<li>Spot Instances</li>
+<li>Reserved Instances</li>
+<li>Dedicated Hosts</li>
+<li>On-Demand Instances</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"Which of the following security measures protect access to an AWS account? (Select TWO)
+<ol type=""A"">
+<li>Enable AWS CloudTrail</li>
+<li>Grant least privilege access to IAM users</li>
+<li>Create one IAM user and share with many developers and users</li>
+<li>Enable Amazon CloudFront</li>
+<li>Activate multi-factor authentication (MFA) for privileged users</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-11
+"Which AWS service provides the ability to manage infrastructure as code?
+<ol type=""A"">
+<li>AWS CodePipeline</li>
+<li>AWS CodeDeploy</li>
+<li>AWS Direct Connect</li>
+<li>AWS CloudFormation</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"What is an advantage of deploying an application across multiple Availability Zones?
+<ol type=""A"">
+<li>There is a lower risk of service failure if a natural disaster causes a service disruption in a given AWS Region</li>
+<li>The application will have higher availability because it can withstand a service disruption in one Availability Zone</li>
+<li>There will be better coverage as Availability Zones are geographical^ distant and can serve a wider area</li>
+<li>There will be decreased application latency that will improve the user experience</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"A customer needs to run a MySQL database that easily scales. Which AWS service should they use?
+<ol type=""A"">
+<li>Amazon Aurora</li>
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon ElastiCache</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"Which of the following is an AWS Cloud architecture design principle?
+<ol type=""A"">
+<li>Implement single points of failure</li>
+<li>Implement loose coupling</li>
+<li>Implement monolithic design</li>
+<li>Implement vertical scaling</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"AWS Enterprise Support users have access to which service or feature that is not available to users with other AWS Support plans?
+<ol type=""A"">
+<li>AWS Trusted Advisor</li>
+<li>AWS Support case</li>
+<li>Concierge team</li>
+<li>Amazon Connect</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"A company will be moving from an on-premises data center to the AWS Cloud. What would be one financial difference after the move?
+<ol type=""A"">
+<li>Moving from variable operational expense ( opex ) to upfront capital expense (capex)</li>
+<li>Moving from upfront capital expense (capex) to variable capital expense (capex)</li>
+<li>Moving from upfront capital expense (capex) to variable operational expense ( opex )</li>
+<li>Elimination of upfront capital expense (capex) and elimination of variable operational expense ( opex )</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"When performing a cost analysis that supports physical isolation of a customer workload, which compute hosting model should be accounted for in the Total Cost of Ownership (TCO)?
+<ol type=""A"">
+<li>Dedicated Hosts</li>
+<li>Reserved Instances</li>
+<li>On-Demand Instances</li>
+<li>No Upfront Reserved Instances</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"Which AWS service should be used for long-term, low-cost storage of data backups?
+<ol type=""A"">
+<li>Amazon RDS</li>
+<li>Amazon Glacier</li>
+<li>AWS Snowball</li>
+<li>AWS EBS</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"Which is the MINIMUM AWS Support plan that provides technical support through phone calls?
+<ol type=""A"">
+<li>Enterprise</li>
+<li>Business</li>
+<li>Developer</li>
+<li>Basic</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-11
+"Which Amazon EC2 instance pricing model can provide discounts of up to 90%?
+<ol type=""A"">
+<li>Reserved Instances</li>
+<li>On-Demand</li>
+<li>Dedicated Hosts</li>
+<li>Spot Instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"Which of the following AWS services can be used to serve large amounts of online video content with the lowest possible latency? (Select TWO)
+<ol type=""A"">
+<li>appGateway</li>
+<li>Amazon S3</li>
+<li>Amazon Elastic File System (EFS)</li>
+<li>Amazon Glacier</li>
+<li>Amazom CloudFront</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-11
+"What can AWS edge locations be used for? (Select TWO)
+<ol type=""A"">
+<li>Hosting applications</li>
+<li>Delivering content closer to users</li>
+<li>Running NoSQL database caching services</li>
+<li>Reducing traffic on the server by caching responses</li>
+<li>Sending notification messages to end users</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-11
+"A company is planning to migrate from on-premises to the AWS Cloud. When AWS tool or service provides detailed reports on estimated cost savings after migration?
+<ol type=""A"">
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>Cost Explorer</li>
+<li>AWS Budgets</li>
+<li>AWS Migration Hub</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS?
+<ol type=""A"">
+<li>AWS Service Health Dashboard</li>
+<li>AWS X-Ray</li>
+<li>AWS Personal Health Dashboard</li>
+<li>Amazon CloudWatch</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:
+<ol type=""A"">
+<li>It allows the business to eliminate IT bills</li>
+<li>It allows the business to put a server in each customer’s data center</li>
+<li>It allows the business to focus on business activities</li>
+<li>It allows the business to leave servers unpatched</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"How can an AWS user with an AWS Basic Support plan obtain technical assistance from AWS?
+<ol type=""A"">
+<li>AWS Senior Support Engineers</li>
+<li>AWS Technical Account Managers</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Discussion Forums</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"How can a user protect against AWS service disruptions if a natural disaster affects an entire geographic area?
+<ol type=""A"">
+<li>Deploy applications across multiple Availability Zones within an AWS Region</li>
+<li>Use a hybrid cloud computing deployment model within the geographic area</li>
+<li>Deploy applications across multiple AWS Regions</li>
+<li>Store application artifacts using AWS Artifact and replicate them across multiple AWS Regions</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-11
+"Which activity is a customer responsibility in the AWS Cloud according to the AWS shared responsibility model?
+<ol type=""A"">
+<li>Ensuring network connectivity from AWS to the internet</li>
+<li>Patching and fixing flaws within the AWS Cloud infrastructure</li>
+<li>Ensuring the physical security of cloud data centers</li>
+<li>Ensuring Amazon EBS volumes are backed up</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"In which scenario should Amazon EC2 Spot Instances be used?
+<ol type=""A"">
+<li>A company wants to move its main website to AWS from an on-premises web server</li>
+<li>A company has a number of application services whose Service Level Agreement (SLA) requires 99.999% uptime</li>
+<li>A company’s heavily used legacy database is currently running on-premises</li>
+<li>A company has a number of infrequent, interruptible jobs that are currently using On-Demand Instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer’s decision? (Select TWO)
+<ol type=""A"">
+<li>Reduced latency to users</li>
+<li>The application’s presentation in the local language</li>
+<li>Data sovereignty compliance</li>
+<li>Cooling costs in hotter climates</li>
+<li>Proximity to the customer’s office for on-site visits</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-11
+"Which AWS service provides alerts when an AWS event may impact a company’s AWS resources?
+<ol type=""A"">
+<li>AWS Personal Health Dashboard</li>
+<li>AWS Service Health Dashboard</li>
+<li>AWS Trusted Advisor</li>
+<li>AWS Infrastructure Event Management</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-11
+"Which disaster recovery scenario offers the lowest probability of down time?
+<ol type=""A"">
+<li>Backup and restore</li>
+<li>Pilot light</li>
+<li>Warm standby</li>
+<li>Multi-site active-active</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"Which service’s PRIMARY purpose is software version control?
+<ol type=""A"">
+<li>Amazon CodeStar</li>
+<li>AWS Command Line Interface (AWS CLI)</li>
+<li>Amazon Cognito</li>
+<li>AWS CodeCommit</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-11
+"How can a customer increase security to AWS account logons? (Select TWO)
+<ol type=""A"">
+<li>Configure AWS Certificate Manager</li>
+<li>Enable Multi-Factor Authentication (MFA)</li>
+<li>Use Amazon Cognito to manage access</li>
+<li>Configure a strong password policy</li>
+<li>Enable AWS Organizations</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-11

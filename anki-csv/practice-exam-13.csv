@@ -1,0 +1,361 @@
+"The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
+<ol type=""A"">
+<li>Cost allocation tags</li>
+<li>Consolidated billing</li>
+<li>AWS Budgets</li>
+<li>AWS Marketplace</li>
+</ol>"	Answer	practice-exam-13
+"Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+<ol type=""A"">
+<li>Amazon Glacier</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon S3</li>
+<li>Amazon EBS</li>
+</ol>"	Answer	practice-exam-13
+"What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice area ?
+<ol type=""A"">
+<li>AWS Enterprise Support</li>
+<li>AWS Solutions Architects</li>
+<li>AWS Professional Services</li>
+<li>AWS Account Managers</li>
+</ol>"	Answer	practice-exam-13
+"A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+<ol type=""A"">
+<li>AWS Partner Network Technology Partners</li>
+<li>AWS Marketplace</li>
+<li>AWS Partner Network Consulting Partners</li>
+<li>AWS Service Catalog</li>
+</ol>"	Answer	practice-exam-13
+"Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?
+<ol type=""A"">
+<li>Implement automation</li>
+<li>Design for agility</li>
+<li>Design for failure</li>
+<li>Implement elasticity</li>
+</ol>"	Answer	practice-exam-13
+"Which AWS services can host a Microsoft SQL Server database? (Select TWO)
+<ol type=""A"">
+<li>Amazon EC2</li>
+<li>Amazon Relational Database Service (Amazon RDS)</li>
+<li>Amazon Aurora</li>
+<li>Amazon Redshift</li>
+<li>Amazon S3</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance ?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS Trusted Advisor</li>
+<li>Consolidated billing</li>
+<li>Detailed billing</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software license ?
+<ol type=""A"">
+<li>Spot Instances</li>
+<li>Reserved Instances</li>
+<li>Dedicated Hosts</li>
+<li>On-Demand Instances</li>
+</ol>"	Answer	practice-exam-13
+"Which AWS characteristics make AWS cost effective for a workload with dynamic user demand? (Select TWO)
+<ol type=""A"">
+<li>High availability</li>
+<li>Shared security model</li>
+<li>Elasticity</li>
+<li>Pay-as-you-go pricing</li>
+<li>Reliability</li>
+</ol>"	Answer	practice-exam-13
+"Which service enables risk auditing by continuously monitoring and logging account activity, including user actions in the AWS Management Console and AWS SDKs?
+<ol type=""A"">
+<li>Amazon CloudWatch</li>
+<li>AWS CloudTrail</li>
+<li>AWS Config</li>
+<li>AWS Health</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following are characteristics of Amazon S3? (Select TWO.)
+<ol type=""A"">
+<li>A global file system</li>
+<li>An object store</li>
+<li>A local file store</li>
+<li>A network file system</li>
+<li>A durable storage system</li>
+</ol>"	Answer	practice-exam-13
+"Which services can be used across hybrid AWS Cloud architectures? (Select TWO.)
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>Virtual Private Gateway</li>
+<li>Classic Load Balancer</li>
+<li>Auto Scaling</li>
+<li>Amazon CloudWatch default metrics</li>
+</ol>"	Answer	practice-exam-13
+"What costs are included when comparing AWS Total Cost of Ownership (TCO) with on-premises TCO?
+<ol type=""A"">
+<li>Project management</li>
+<li>Antivirus software licensing</li>
+<li>Data center security</li>
+<li>Software development</li>
+</ol>"	Answer	practice-exam-13
+"A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes.  Which service should the company use?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store</li>
+<li>Amazon EC2 with Amazon Elastic Block Store (Amazon EBS)</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following is a correct relationship between regions, Availability Zones, and edge locations?
+<ol type=""A"">
+<li>Data centers contain regions</li>
+<li>Regions contain Availability Zones</li>
+<li>Availability Zones contain edge locations</li>
+<li>Edge locations contain regions</li>
+</ol>"	Answer	practice-exam-13
+"Which AWS tools assist with estimating costs? (Select three.)
+<ol type=""A"">
+<li>Detailed billing report</li>
+<li>Cost allocation tags</li>
+<li>AWS Simple Monthly Calculator</li>
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>Cost Eliminator</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following are advantages of AWS consolidated billing? (Select TWO.)
+<ol type=""A"">
+<li>The ability to receive one bill for multiple accounts</li>
+<li>Service limits increasing by default in all accounts</li>
+<li>A fixed discount on the monthly bill</li>
+<li>Potential volume discounts, as usage in all accounts is combined</li>
+<li>The automatic extension of the master account's AWS support plan to all accounts</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following Reserved Instance (RI) pricing models provides the highest average savings compared to On-Demand pricing?
+<ol type=""A"">
+<li>One-year, No Upfront, Standard RI pricing</li>
+<li>One-year, All Upfront, Convertible RI pricing</li>
+<li>Three-year, All Upfront, Standard RI pricing</li>
+<li>Three-year, No Upfront, Convertible RI pricing</li>
+</ol>"	Answer	practice-exam-13
+"Compared with costs in traditional and virtualized data centers, AWS has:
+<ol type=""A"">
+<li>greater variable costs and greater upfront costs</li>
+<li>fixed usage costs and lower upfront costs</li>
+<li>lower variable costs and greater upfront costs</li>
+<li>lower variable costs and lower upfront costs</li>
+</ol>"	Answer	practice-exam-13
+"A characteristic of edge locations is that they:
+<ol type=""A"">
+<li>host Amazon EC2 instances closer to users</li>
+<li>help lower latency and improve performance for users</li>
+<li>cache frequently changing data without reaching the origin server</li>
+<li>refresh data changes daily</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to specific users?
+<ol type=""A"">
+<li>A public and private key-pair</li>
+<li>Amazon Inspector</li>
+<li>AWS Identity and Access Management (IAM) policies</li>
+<li>Security Groups</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following security-related actions are available at no cost?
+<ol type=""A"">
+<li>Calling AWS Support</li>
+<li>Contacting AWS Professional Services to request a workshop</li>
+<li>Accessing forums, blogs, and whitepapers</li>
+<li>Attending AWS classes at a local university</li>
+</ol>"	Answer	practice-exam-13
+"Which of the Reserved Instance (RI) pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?
+<ol type=""A"">
+<li>Dedicated RIs</li>
+<li>Scheduled RIs</li>
+<li>Convertible RIs</li>
+<li>Standard RIs</li>
+</ol>"	Answer	practice-exam-13
+"Which AWS feature will reduce the customer's total cost of ownership (TCO)?
+<ol type=""A"">
+<li>Shared responsibility security model</li>
+<li>Single tenancy</li>
+<li>Elastic computing</li>
+<li>Encryption</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following services will automatically scale with an expected increase in web traffic?
+<ol type=""A"">
+<li>AWS CodePipeline</li>
+<li>Elastic Load Balancing</li>
+<li>Amazon EBS</li>
+<li>AWS Direct Connect</li>
+</ol>"	Answer	practice-exam-13
+"Where are AWS compliance documents, such as an SOC 1 report, located?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS CloudTrail</li>
+<li>AWS Artifact</li>
+<li>AWS Certificate Manager</li>
+</ol>"	Answer	practice-exam-13
+"Under the AWS shared responsibility model, which of the following activities are the customer's responsibility? (Select TWO.)
+<ol type=""A"">
+<li>Patching operating system components for Amazon Relational Database Server (Amazon RDS)</li>
+<li>Encrypting data on the client-side</li>
+<li>Training the data center staff</li>
+<li>Configuring Network Access Control Lists (ACL)</li>
+<li>Maintaining environmental controls within a data center</li>
+</ol>"	Answer	practice-exam-13
+"Which is a recommended pattern for designing a highly available architecture on AWS?
+<ol type=""A"">
+<li>Ensure that components have low-latency network connectivity</li>
+<li>Run enough Amazon EC2 instances to operate at peak load</li>
+<li>Ensure that the application is designed to accommodate failure of any single component</li>
+<li>Use a monolithic application that handles all operations</li>
+</ol>"	Answer	practice-exam-13
+"According to best practices, how should an application be designed to run in the AWS Cloud?
+<ol type=""A"">
+<li>Use tightly coupled components</li>
+<li>Use loosely coupled components</li>
+<li>Use infrequently coupled components</li>
+<li>Use frequently coupled components</li>
+</ol>"	Answer	practice-exam-13
+"AWS supports which of the following methods to add security to Identity and Access Management (IAM) users? (Select TWO.)
+<ol type=""A"">
+<li>Implementing Amazon Rekognition</li>
+<li>Using AWS Shield-protected resources</li>
+<li>Blocking access with Security Groups</li>
+<li>Using Multi-Factor Authentication (MFA)</li>
+<li>Enforcing password strength and expiration</li>
+</ol>"	Answer	practice-exam-13
+"Which AWS services should be used for read/write of constantly changing data? (Select TWO.)
+<ol type=""A"">
+<li>Amazon Glacier</li>
+<li>Amazon RDS</li>
+<li>AWS Snowball</li>
+<li>Amazon Redshift</li>
+<li>Amazon EFS</li>
+</ol>"	Answer	practice-exam-13
+"What is one of the advantages of the Amazon Relational Database Service (Amazon RDS)?
+<ol type=""A"">
+<li>It simplifies relational database administration tasks</li>
+<li>It provides 99.99999999999% reliability and durability</li>
+<li>It automatically scales databases for loads</li>
+<li>It enabled users to dynamically adjust CPU and RAM resources</li>
+</ol>"	Answer	practice-exam-13
+"A customer needs to run a MySQL database that easily scales.Which AWS service should they use?
+<ol type=""A"">
+<li>Amazon Aurora</li>
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon ElastiCache</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
+<ol type=""A"">
+<li>Availability Zone</li>
+<li>Edge location</li>
+<li>Region</li>
+<li>Private networking</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following is a shared control between the customer and AWS?
+<ol type=""A"">
+<li>Providing a key for Amazon S3 client-side encryption</li>
+<li>Configuration of an Amazon EC2 instance</li>
+<li>Environmental controls of physical AWS data centers</li>
+<li>Awareness and training</li>
+</ol>"	Answer	practice-exam-13
+"How many Availability Zones should compute resources be provisioned across to achieve high availability?
+<ol type=""A"">
+<li>A minimum of one</li>
+<li>A minimum of two</li>
+<li>A minimum of three</li>
+<li>A minimum of four or more</li>
+</ol>"	Answer	practice-exam-13
+"One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:
+<ol type=""A"">
+<li>it allows the business to eliminate IT bills</li>
+<li>it allows the business to put a server in each customer's data center</li>
+<li>it allows the business to focus on business activities</li>
+<li>it allows the business to leave servers unpatched</li>
+</ol>"	Answer	practice-exam-13
+"What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
+<ol type=""A"">
+<li>Amazon S3</li>
+<li>Amazon Glacier</li>
+<li>Amazon EBS</li>
+<li>Amazon EC2 Instance Store</li>
+</ol>"	Answer	practice-exam-13
+"Which AWS IAM feature allows developers to access AWS services through the AWS CLI?
+<ol type=""A"">
+<li>API keys</li>
+<li>Access keys</li>
+<li>User names/Passwords</li>
+<li>SSH keys</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following is a fast and reliable NoSQL database service?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon RDS</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon S3</li>
+</ol>"	Answer	practice-exam-13
+"What is an example of agility in the AWS Cloud?
+<ol type=""A"">
+<li>Access to multiple instance types</li>
+<li>Access to managed services</li>
+<li>Using Consolidated Billing to produce one bill</li>
+<li>Decreased acquisition time for new compute resources</li>
+</ol>"	Answer	practice-exam-13
+"Which service should a customer use to consolidate and centrally manage multiple AWS accounts?
+<ol type=""A"">
+<li>AWS IAM</li>
+<li>AWS Organizations</li>
+<li>AWS Schema Conversion Tool</li>
+<li>AWS Config</li>
+</ol>"	Answer	practice-exam-13
+"What approach to transcoding a large number of individual video files adheres to AWS architecture principles?
+<ol type=""A"">
+<li>Using many instances in parallel</li>
+<li>Using a single large instance during off-peak hours</li>
+<li>Using dedicated hardware</li>
+<li>Using a large GPU instance type</li>
+</ol>"	Answer	practice-exam-13
+"For which auditing process does AWS have sole responsibility?
+<ol type=""A"">
+<li>AWS IAM policies</li>
+<li>Physical security</li>
+<li>Amazon S3 bucket policies</li>
+<li>AWS CloudTrail Logs</li>
+</ol>"	Answer	practice-exam-13
+"Which feature of the AWS Cloud will support an international company's requirement for low latency to all of its customers?
+<ol type=""A"">
+<li>Fault tolerance</li>
+<li>Global reach</li>
+<li>Pay-as-you-go pricing</li>
+<li>High availability</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following is the customer's responsibility under the AWS shared responsibility model?
+<ol type=""A"">
+<li>Patching underlying infrastructure</li>
+<li>Physical security</li>
+<li>Patching Amazon EC2 instances</li>
+<li>Patching network infrastructure</li>
+</ol>"	Answer	practice-exam-13
+"A customer is using multiple AWS accounts with separate billing. How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
+<ol type=""A"">
+<li>Create one global AWS account and move all AWS resources to that account</li>
+<li>Sign up for three years of Reserved Instance pricing up front</li>
+<li>Use the consolidated billing feature from AWS Organizations</li>
+<li>Sign up for the AWS Enterprise support plan to get volume discounts</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following are features of Amazon CloudWatch Logs? (Select TWO.)
+<ol type=""A"">
+<li>Summaries by Amazon Simple Notification Service (Amazon SNS)</li>
+<li>Free Amazon Elasticsearch Service analytics</li>
+<li>Provided at no charge</li>
+<li>Real-time monitoring</li>
+<li>Adjustable retention</li>
+</ol>"	Answer	practice-exam-13
+"Which of the following is an AWS managed Domain Name System (DNS) web service?
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>Amazon Neptune</li>
+<li>Amazon SageMaker</li>
+<li>Amazon Lightsail</li>
+</ol>"	Answer	practice-exam-13
+"A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer's decision? (Select TWO.)
+<ol type=""A"">
+<li>Reduced latency to users</li>
+<li>The application's presentation in the local language</li>
+<li>Data sovereignty compliance</li>
+<li>Cooling costs in hotter climates</li>
+<li>Proximity to the customer's office for on-site visits</li>
+</ol>"	Answer	practice-exam-13

@@ -1,0 +1,462 @@
+"AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
+<ol type=""A"">
+<li>AWS CLI</li>
+<li>AWS API</li>
+<li>AWS SDK</li>
+<li>AWS Management Console</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"Which of the following is an example of horizontal scaling in the AWS Cloud?
+<ol type=""A"">
+<li>Replacing an existing EC2 instance with a larger, more powerful one</li>
+<li>Increasing the compute capacity of a single EC2 instance to address the growing demands of an application</li>
+<li>Adding more RAM capacity to an EC2 instance</li>
+<li>Adding more EC2 instances of the same size to handle an increase in traffic</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"You have noticed that several critical Amazon EC2 instances have been terminated. Which of the following AWS services would help you determine who took this action?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS CloudTrail</li>
+<li>AWS Trusted Advisor</li>
+<li>EC2 Instance Usage Report</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"Which of the below options are related to the reliability of AWS? (Choose TWO)
+<ol type=""A"">
+<li>Applying the principle of least privilege to all AWS resources</li>
+<li>Automatically provisioning new resources to meet demand</li>
+<li>All AWS services are considered Global Services, and this design helps customers serve their international users</li>
+<li>Providing compensation to customers if issues occur</li>
+<li>Ability to recover quickly from failures</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-1
+"Which statement is true regarding the AWS Shared Responsibility Model?
+<ol type=""A"">
+<li>Responsibilities vary depending on the services used</li>
+<li>Security of the IaaS services is the responsibility of AWS</li>
+<li>Patching the guest OS is always the responsibility of AWS</li>
+<li>Security of the managed services is the responsibility of the customer</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-1
+"You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
+<ol type=""A"">
+<li>The Reserved Instance discounts can only be shared with the master account</li>
+<li>All accounts can receive the hourly cost benefit of the Reserved Instances</li>
+<li>The purchased instances will have better performance than On-demand instances</li>
+<li>There are no cost benefits from using consolidated billing; It is for informational purposes only</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
+<ol type=""A"">
+<li>Deploy the application across multiple Availability Zones and Edge locations</li>
+<li>Deploy the application across multiple Availability Zones and subnets</li>
+<li>Deploy the application across multiple Regions and Availability Zones</li>
+<li>Deploy the application across multiple VPC’s and subnets</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"What does AWS Snowball provide? (Choose TWO)
+<ol type=""A"">
+<li>Built-in computing capabilities that allow customers to process data locally</li>
+<li>A catalog of third-party software solutions that customers need to build solutions and run their businesses</li>
+<li>A hybrid cloud storage between on-premises environments and the AWS Cloud</li>
+<li>An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS</li>
+<li>Secure transfer of large amounts of data into and out of the AWS</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-1
+"A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
+<ol type=""A"">
+<li>AWS Health Dashboard</li>
+<li>AWS Support Concierge</li>
+<li>AWS Customer Service</li>
+<li>AWS Operations Support</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"A Japanese company hosts their applications on Amazon EC2 instances in the Tokyo Region. The company has opened new branches in the United States, and the US users are complaining of high latency. What can the company do to reduce latency for the users in the US while minimizing costs?
+<ol type=""A"">
+<li>Applying the Amazon Connect latency-based routing policy</li>
+<li>Registering a new US domain name to serve the users in the US</li>
+<li>Building a new data center in the US and implementing a hybrid model</li>
+<li>Deploying new Amazon EC2 instances in a Region located in the US</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
+<ol type=""A"">
+<li>IAM roles</li>
+<li>IAM users</li>
+<li>IAM user groups</li>
+<li>AWS Organizations</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
+<ol type=""A"">
+<li>AWS OpsWorks</li>
+<li>AWS Database Migration Service</li>
+<li>AWS Server Migration Service</li>
+<li>AWS Application Discovery Service</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
+<ol type=""A"">
+<li>Build security in every layer</li>
+<li>Parallelize tasks</li>
+<li>Implement elasticity</li>
+<li>Adopt monolithic architecture</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"What are the benefits of having infrastructure hosted in AWS? (Choose TWO)
+<ol type=""A"">
+<li>Increasing speed and agility</li>
+<li>There is no need to worry about security</li>
+<li>Gaining complete control over the physical infrastructure</li>
+<li>Operating applications on behalf of customers</li>
+<li>All of the physical security and most of the data/network security are taken care of for you</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-1
+"What is the advantage of the AWS-recommended practice of ""decoupling"" applications?
+<ol type=""A"">
+<li>Allows treating an application as a single, cohesive unit</li>
+<li>Reduces inter-dependencies so that failures do not impact other components of the application</li>
+<li>Allows updates of any monolithic application quickly and easily</li>
+<li>Allows tracking of any API call made to any AWS service</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"Which of the following helps a customer view the Amazon EC2 billing activity for the past month?
+<ol type=""A"">
+<li>AWS Budgets</li>
+<li>AWS Pricing Calculator</li>
+<li>AWS Systems Manager</li>
+<li>AWS Cost &amp; Usage Reports</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
+<ol type=""A"">
+<li>AWS services’ costs will be reduced to half the original price</li>
+<li>The consolidated billing feature is just for organizational purpose</li>
+<li>Each AWS account gets volume discounts</li>
+<li>Each AWS account gets five times the free-tier services capacity</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"What should you do in order to keep the data on EBS volumes safe? (Choose TWO)
+<ol type=""A"">
+<li>Regularly update firmware on EBS devices</li>
+<li>Create EBS snapshots</li>
+<li>Ensure that EBS data is encrypted at rest</li>
+<li>Store a backup daily in an external drive</li>
+<li>Prevent any unauthorized access to AWS data centers</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-1
+"One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?
+<ol type=""A"">
+<li>By automatically scaling your on-premises resources based on changes in demand</li>
+<li>By automatically scaling your AWS resources using an Elastic Load Balancer</li>
+<li>By reducing interdependencies between application components wherever possible</li>
+<li>By automatically provisioning the required AWS resources based on changes in demand</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds $2000? (Choose TWO)
+<ol type=""A"">
+<li>Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded</li>
+<li>Configure the Amazon Simple Email Service to send billing alerts to their email address on a daily basis</li>
+<li>Configure the AWS Budgets Service to alert the company when the threshold is exceeded</li>
+<li>Configure AWS CloudTrail to automatically delete all AWS resources when the threshold is exceeded</li>
+<li>Configure the Amazon Connect Service to alert the company when the threshold is exceeded</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-1
+"What does Amazon CloudFront use to distribute content to global users with low latency?
+<ol type=""A"">
+<li>AWS Global Accelerator</li>
+<li>AWS Regions</li>
+<li>AWS Edge Locations</li>
+<li>AWS Availability Zones</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"What does the ""Principle of Least Privilege"" refer to?
+<ol type=""A"">
+<li>You should grant your users only the permissions they need when they need them and nothing more</li>
+<li>All IAM users should have at least the necessary permissions to access the core AWS services</li>
+<li>All trusted IAM users should have access to any AWS service in the respective AWS account</li>
+<li>IAM users should not be granted any permissions; to keep your account safe</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-1
+"Which of the following does NOT belong to the AWS Cloud Computing models?
+<ol type=""A"">
+<li>Platform as a Service (PaaS)</li>
+<li>Infrastructure as a Service (IaaS)</li>
+<li>Software as a Service (SaaS)</li>
+<li>Networking as a Service (NaaS)</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"The identification process of an online financial services company requires that new users must complete an online interview with their security team. The completed recorded interviews are only required in the event of a legal issue or a regulatory compliance breach. What is the most cost-effective service to store the recorded videos?
+<ol type=""A"">
+<li>S3 Intelligent-Tiering</li>
+<li>AWS Marketplace</li>
+<li>Amazon S3 Glacier Deep Archive</li>
+<li>Amazon EBS</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"Which service provides DNS in the AWS cloud?
+<ol type=""A"">
+<li>Route 53</li>
+<li>AWS Config</li>
+<li>Amazon CloudFront</li>
+<li>Amazon EMR</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-1
+"Hundreds of thousands of DDoS attacks are recorded every month worldwide. What service does AWS provide to help protect AWS Customers from these attacks? (Choose TWO)
+<ol type=""A"">
+<li>AWS Shield</li>
+<li>AWS Config</li>
+<li>Amazon Cognito</li>
+<li>AWS WAF</li>
+<li>AWS KMS</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-1
+"A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application’s response time is optimal?
+<ol type=""A"">
+<li>AWS OpsWorks</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon EBS volume</li>
+<li>Amazon ElastiCache</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"You want to run a questionnaire application for only one day (without interruption), which Amazon EC2 purchase option should you use?
+<ol type=""A"">
+<li>Reserved instances</li>
+<li>Spot instances</li>
+<li>Dedicated instances</li>
+<li>On-demand instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"You are working on a project that involves creating thumbnails of millions of images. Consistent uptime is not an issue, and continuous processing is not required. Which EC2 buying option would be the most cost-effective?
+<ol type=""A"">
+<li>Reserved Instances</li>
+<li>On-demand Instances</li>
+<li>Dedicated Instances</li>
+<li>Spot Instances</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"Which of the following can be described as a global content delivery network (CDN) service?
+<ol type=""A"">
+<li>AWS VPN</li>
+<li>AWS Direct Connect</li>
+<li>AWS Regions</li>
+<li>Amazon CloudFront</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"Which of the following services allows customers to manage their agreements with AWS?
+<ol type=""A"">
+<li>AWS Artifact</li>
+<li>AWS Certificate Manager</li>
+<li>AWS Systems Manager</li>
+<li>AWS Organizations</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-1
+"Which of the following are examples of AWS-Managed Services, where AWS is responsible for the operational and maintenance burdens of running the service? (Choose TWO)
+<ol type=""A"">
+<li>Amazon VPC</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Elastic MapReduce</li>
+<li>AWS IAM</li>
+<li>Amazon Elastic Compute Cloud</li>
+</ol>"	"Answer
+  Correct answer: B, C
+"	practice-exam-1
+"Your company has a data store application that requires access to a NoSQL database. Which AWS database offering would meet this requirement?
+<ol type=""A"">
+<li>Amazon Aurora</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Elastic Block Store</li>
+<li>Amazon Redshift</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"As part of the Enterprise support plan, who is the primary point of contact for ongoing support needs?
+<ol type=""A"">
+<li>AWS Identity and Access Management (IAM) user</li>
+<li>Infrastructure Event Management (IEM) engineer</li>
+<li>AWS Consulting Partners</li>
+<li>Technical Account Manager (TAM)</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"How can you view the distribution of AWS spending in one of your AWS accounts?
+<ol type=""A"">
+<li>By using Amazon VPC console</li>
+<li>By contacting the AWS Support team</li>
+<li>By using AWS Cost Explorer</li>
+<li>By contacting the AWS Finance team</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?
+<ol type=""A"">
+<li>Access keys</li>
+<li>Secret token</li>
+<li>UserID</li>
+<li>User name and password</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-1
+"You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?
+<ol type=""A"">
+<li>Contact the AWS Customer Service team</li>
+<li>Contact the AWS Abuse team</li>
+<li>Contact the AWS Concierge team</li>
+<li>Contact the AWS Security team</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"Select TWO examples of the AWS shared controls.
+<ol type=""A"">
+<li>Patch Management</li>
+<li>IAM Management</li>
+<li>VPC Management</li>
+<li>Configuration Management</li>
+<li>Data Center operations</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-1
+"In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
+<ol type=""A"">
+<li>ELB</li>
+<li>Auto Scaling</li>
+<li>Amazon Athen</li>
+<li>ECR</li>
+<li>Amazon EC2</li>
+</ol>"	"Answer
+  Correct answer: A, B
+"	practice-exam-1
+"A company is planning to host an educational website on AWS. Their video courses will be streamed all around the world. Which of the following AWS services will help achieve high transfer speeds?
+<ol type=""A"">
+<li>Amazon SNS</li>
+<li>Amazon Kinesis Video Streams</li>
+<li>AWS CloudFormation</li>
+<li>Amazon CloudFront</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?
+<ol type=""A"">
+<li>A MySQL database installed on an EC2 instance</li>
+<li>Amazon Aurora</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Neptune</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"What is the AWS service that enables AWS architects to manage infrastructure as code?
+<ol type=""A"">
+<li>AWS CloudFormation</li>
+<li>AWS Config</li>
+<li>Amazon SES</li>
+<li>Amazon EMR</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-1
+"Under the shared responsibility model, which of the following is the responsibility of AWS?
+<ol type=""A"">
+<li>Client-side encryption</li>
+<li>Configuring infrastructure devices</li>
+<li>Server-side encryption</li>
+<li>Filtering traffic with Security Groups</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-1
+"What does the AWS Health Dashboard provide? (Choose TWO)
+<ol type=""A"">
+<li>Detailed troubleshooting guidance to address AWS events impacting your resources</li>
+<li>Health checks for Auto Scaling instances</li>
+<li>Recommendations for Cost Optimization</li>
+<li>A dashboard detailing vulnerabilities in your applications</li>
+<li>Personalized view of AWS service health</li>
+</ol>"	"Answer
+  Correct answer: A, E
+"	practice-exam-1
+"You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can’t reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?
+<ol type=""A"">
+<li>AWS Lambda</li>
+<li>AWS Config</li>
+<li>Amazon CloudWatch</li>
+<li>AWS CloudTrail</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"Your company is developing a critical web application in AWS, and the security of the application is a top priority. Which of the following AWS services will provide infrastructure security optimization recommendations?
+<ol type=""A"">
+<li>AWS Shield</li>
+<li>AWS Management Console</li>
+<li>AWS Secrets Manager</li>
+<li>AWS Trusted Advisor</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1
+"Which of the following is not a benefit of Amazon S3? (Choose TWO)
+<ol type=""A"">
+<li>Amazon S3 provides unlimited storage for any type of data</li>
+<li>Amazon S3 can run any type of application or backend system</li>
+<li>Amazon S3 stores any number of objects, but with object size limits</li>
+<li>Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere</li>
+<li>Amazon S3 provides 99.999999999% (11 9’s) of data durability</li>
+</ol>"	"Answer
+  Correct answer: B, D
+"	practice-exam-1
+"In the AWS Shared responsibility Model, which of the following are the responsibility of the customer? (Choose TWO)
+<ol type=""A"">
+<li>Disk disposal</li>
+<li>Controlling physical access to compute resources</li>
+<li>Patching the Network infrastructure</li>
+<li>Setting password complexity rules</li>
+<li>Configuring network access rules</li>
+</ol>"	"Answer
+  Correct answer: D, E
+"	practice-exam-1
+"What does AWS provide to deploy popular technologies such as IBM MQ on AWS with the least amount of effort and time?
+<ol type=""A"">
+<li>Amazon Aurora</li>
+<li>Amazon CloudWatch</li>
+<li>AWS Quick Start reference deployments</li>
+<li>AWS OpsWorks</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-1
+"An organization has decided to purchase an Amazon EC2 Reserved Instance (RI) for three years in order to reduce costs. It is possible that the application workloads could change during the reservation period. What is the EC2 Reserved Instance (RI) type that will allow the company to exchange the purchased reserved instance for another reserved instance with higher computing power if they need to?
+<ol type=""A"">
+<li>Elastic RI</li>
+<li>Premium RI</li>
+<li>Standard RI</li>
+<li>Convertible RI</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-1

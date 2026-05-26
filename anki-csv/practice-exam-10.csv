@@ -1,0 +1,461 @@
+"Which of the following can an AWS customer use to launch a new Amazon Relational Database Service (Amazon RDS) cluster? (Select TWO)
+<ol type=""A"">
+<li>AWS Concierge</li>
+<li>AWS CloudFormation</li>
+<li>Amazon Simple Storage Service (Amazon S3)</li>
+<li>Amazon EC2 Auto Scaling</li>
+<li>AWS Management Console</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-10
+"Which of the following Reserved Instance (RI) pricing models provides the highest average savings compared to On-Demand pricing?
+<ol type=""A"">
+<li>One-year, No Upfront, Standard RI pricing</li>
+<li>One-year, All Upfront, Convertible RI pricing</li>
+<li>Three-year, All Upfront, Standard RI pricing</li>
+<li>Three-year, No Upfront, Convertible RI pricing</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which of the following are features of Amazon CloudWatch Logs? (Select TWO)
+<ol type=""A"">
+<li>Summaries by Amazon Simple Notification Service (Amazon SNS)</li>
+<li>Free Amazon Elasticsearch Service analytics</li>
+<li>Provided at no charge</li>
+<li>Real-time monitoring</li>
+<li>Adjustable retention</li>
+</ol>"	"Answer
+  Correct answer: D, E
+"	practice-exam-10
+"Which of the following is an AWS-managed compute service?
+<ol type=""A"">
+<li>Amazon SWF</li>
+<li>Amazon EC2</li>
+<li>AWS Lambda</li>
+<li>Amazon Aurora</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?
+<ol type=""A"">
+<li>Amazon Elastic Compute Cloud (Amazon EC2)</li>
+<li>AWS Lambda</li>
+<li>Amazon DynamoDB</li>
+<li>AWS CodeCommit</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which of the following is the customer’s responsibility under the AWS shared responsibility model?
+<ol type=""A"">
+<li>Patching underlying infrastructure</li>
+<li>Physical security</li>
+<li>Patching Amazon EC2 instances</li>
+<li>Patching network infrastructure</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"According to the AWS shared responsibility model who is responsible for configuration management?
+<ol type=""A"">
+<li>It is solely the responsibility of the customer</li>
+<li>It is solely the responsibility of AWS</li>
+<li>It is shared between AWS and the customer</li>
+<li>It is not part of the AWS shared responsibility model</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which security service automatically recognizes and classifies sensitive data or intellectual property on AWS?
+<ol type=""A"">
+<li>Amazon GuardDuty</li>
+<li>Amazon Macie</li>
+<li>Amazon Inspector</li>
+<li>AWS Shield</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which of the following BEST describe the AWS pricing model? (Select TWO)
+<ol type=""A"">
+<li>Fixed-term</li>
+<li>Pay-as-you-go</li>
+<li>Colocation</li>
+<li>Planned</li>
+<li>Variable cost</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-10
+"Under the shared responsibility model, which of the following tasks are the responsibility of the AWS customer? (Select TWO)
+<ol type=""A"">
+<li>Ensuring that application data is encrypted at rest</li>
+<li>Ensuring that AWS NTP servers are set to the correct time</li>
+<li>Ensuring that users have received security training in the use of AWS services</li>
+<li>Ensuring that access to data centers is restricted</li>
+<li>Ensuring that hardware is disposed of properly</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-10
+"A customer is using multiple AWS accounts with separate billing. How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
+<ol type=""A"">
+<li>Create one global AWS account and move all AWS resources to that account</li>
+<li>Sign up for three years of Reserved Instance pricing up front</li>
+<li>Use the consolidated billing feature from AWS Organizations</li>
+<li>Sign up for the AWS Enterprise support plan to get volume discounts</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which Amazon EC2 pricing model offers the MOST significant discount when compared to OnDemand Instances?
+<ol type=""A"">
+<li>A Partial Upfront Reserved Instances for a 1-year term</li>
+<li>All Upfront Reserved instances for a 1 year form</li>
+<li>All Upfront Reserved Instances for a 3 year term</li>
+<li>No Upfront Reserved Instances for a 3 year term</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which AWS services should be used for read/write of constantly changing data? (Select TWO)
+<ol type=""A"">
+<li>Amazon Glacier</li>
+<li>Amazon RDS</li>
+<li>AWS Snowball</li>
+<li>Amazon Redshift</li>
+<li>Amazon EFS</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-10
+"Which AWS service allows users to identify the changes made to a resource over time?
+<ol type=""A"">
+<li>Amazon Inspector</li>
+<li>AWS Config</li>
+<li>AWS Service Catalog</li>
+<li>AWS IAM</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"According to best practices, how should an application be designed to run in the AWS Cloud?
+<ol type=""A"">
+<li>Use tightly coupled components</li>
+<li>Use loosely coupled components</li>
+<li>Use infrequently coupled components</li>
+<li>Use frequently coupled components</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which benefits are included with the AWS Business Support plan? (Select TWO)
+<ol type=""A"">
+<li>24/7 assistance by way of live chat or a telephone call</li>
+<li>Support from a dedicated AWS Technical Account Manager</li>
+<li>An unlimited number of cases and contacts</li>
+<li>15-minute response time for production system interruption cases</li>
+<li>Annual operational reviews with AWS Solutions Architects</li>
+</ol>"	"Answer
+  Correct answer: A, C
+"	practice-exam-10
+"Which of the following is an AWS managed Domain Name System (DNS) web service?
+<ol type=""A"">
+<li>Amazon Route 53</li>
+<li>Amazon Neptune</li>
+<li>Amazon SageMaker</li>
+<li>Amazon Lightsail</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-10
+"A user must meet compliance and software licensing requirements that state a workload must be hosted on a physical server. When Amazon EC2 instance pricing option will meet these requirements?
+<ol type=""A"">
+<li>Dedicated Hosts</li>
+<li>Dedicated Instances</li>
+<li>Spot Instances</li>
+<li>Reserved Instances</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-10
+"Which of the Reserved Instance (RI) pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?
+<ol type=""A"">
+<li>Dedicated RIs</li>
+<li>Scheduled RIs</li>
+<li>Convertible RIs</li>
+<li>Standard RIs</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which service is best for storing common database query results, which helps to alleviate database access load?
+<ol type=""A"">
+<li>Amazon Machine Learning</li>
+<li>Amazon SQS</li>
+<li>Amazon ElastiCache</li>
+<li>Amazon EC2 Instance Store</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"When should a company consider using Amazon EC2 Spot Instances? (Select TWO)
+<ol type=""A"">
+<li>For non-production applications</li>
+<li>For stateful workloads</li>
+<li>For applications that cannot have interruptions</li>
+<li>For fault-tolerant flexible applications</li>
+<li>For sensitive database applications</li>
+</ol>"	"Answer
+  Correct answer: A, D
+"	practice-exam-10
+"Which AWS tools assist with estimating costs? (Select three)
+<ol type=""A"">
+<li>Detailed billing report</li>
+<li>Cost allocation tags</li>
+<li>AWS Simple Monthly Calculator</li>
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>Cost Estimator</li>
+</ol>"	"Answer
+  Correct answer: B, C, D
+"	practice-exam-10
+"A company wants to focus on business activities instead of managing compute and capacity. Which AWS service can be used to automatically add or remove Amazon EC2 instances based on demand?
+<ol type=""A"">
+<li>Elastic Load Balancer</li>
+<li>Amazon EC2 Auto Scaling</li>
+<li>Amazon Route 53</li>
+<li>Amazon CloudFront</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which is the minimum AWS Support plan that includes Infrastructure Event Management without additional costs?
+<ol type=""A"">
+<li>Enterprise</li>
+<li>Business</li>
+<li>Developer</li>
+<li>Basic</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-10
+"Access keys in AWS Identity and Access Management (IM1) are used to:
+<ol type=""A"">
+<li>Log in to the AWS Management Console</li>
+<li>Make programmatic calls to AWS from AWS APIs</li>
+<li>Log in to Amazon EC2 instances</li>
+<li>Authenticate to AWS CodeCommit repositories</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which AWS service can be used to query stored datasets directly from Amazon S3 using standard SQL?
+<ol type=""A"">
+<li>AWS Glue</li>
+<li>AWS Data Pipeline</li>
+<li>Amazon CloudSearch</li>
+<li>Amazon Athena</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-10
+"How does AWS shorten the time to provision IT resources?
+<ol type=""A"">
+<li>It supplies an online IT ticketing platform for resource requests</li>
+<li>It supports automatic code validation services</li>
+<li>It provides the ability to programmatically provision existing resources</li>
+<li>It automates the resource request process from a company’s IT vendor list</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which AWS services can be used to gather information about AWS account activity? (Select TWO)
+<ol type=""A"">
+<li>Amazon CloudFront</li>
+<li>AWS Cloud9</li>
+<li>AWS CloudTrail</li>
+<li>AWS CloudHSM</li>
+<li>Amazon CloudWatch</li>
+</ol>"	"Answer
+  Correct answer: C, E
+"	practice-exam-10
+"Which of the following are characteristics of Amazon S3? (Select TWO)
+<ol type=""A"">
+<li>A global file system</li>
+<li>An object store</li>
+<li>A local file store</li>
+<li>A network file system</li>
+<li>A durable storage system</li>
+</ol>"	"Answer
+  Correct answer: B, E
+"	practice-exam-10
+"A user wants guidance on possible savings when migrating from on-premises to AWS. Which tool is suitable for this scenario?
+<ol type=""A"">
+<li>AWS Budgets</li>
+<li>Cost Explorer</li>
+<li>AWS Total Cost of Ownership (TCO) Calculator</li>
+<li>AWS Well-Architected Tool</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which of the following services is in the category of AWS serverless platform?
+<ol type=""A"">
+<li>Amazon EMR</li>
+<li>Elastic Load Balancing</li>
+<li>AWS Lambda</li>
+<li>AWS Mobile Hub</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
+<ol type=""A"">
+<li>Cost allocation tags</li>
+<li>Consolidated billing</li>
+<li>AWS Budgets</li>
+<li>AWS Marketplace</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-10
+"Which of the following inspects AWS environments to find opportunities that can save money for users and also improve system performance?
+<ol type=""A"">
+<li>AWS Cost Explorer</li>
+<li>AWS Trusted Advisor</li>
+<li>Consolidated billing</li>
+<li>Detailed billing</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Web servers running on Amazon EC2 access a legacy application running in a corporate data center. What term would describe this model?
+<ol type=""A"">
+<li>Cloud-native</li>
+<li>Partner network</li>
+<li>Hybrid architecture</li>
+<li>Infrastructure as a service</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"What technology enables compute capacity to adjust as loads change?
+<ol type=""A"">
+<li>Load balancing</li>
+<li>Automatic failover</li>
+<li>Round robin</li>
+<li>Auto Scaling</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-10
+"Which AWS service is a managed NoSQL database?
+<ol type=""A"">
+<li>Amazon Redshift</li>
+<li>Amazon DynamoDB</li>
+<li>Amazon Aurora</li>
+<li>Amazon RDS for ManaDB</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which of the following is a correct relationship between regions, Availability Zones, and edge locations?
+<ol type=""A"">
+<li>Data centers contain regions</li>
+<li>Regions contain Availability Zones</li>
+<li>Availability Zones contain edge locations</li>
+<li>Edge locations contain regions</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"What approach to transcoding a large number of individual video files adheres to AWS architecture principles?
+<ol type=""A"">
+<li>Using many instances in parallel</li>
+<li>Using a single large instance during off-peak hours</li>
+<li>Using dedicated hardware</li>
+<li>Using a large GPU instance type</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-10
+"Which AWS services can host a Microsoft SQL Server database? (Select TWO)
+<ol type=""A"">
+<li>Amazon EC2</li>
+<li>Amazon Relational Database Service (Amazon RDS)</li>
+<li>Amazon Aurora</li>
+<li>Amazon Redshift</li>
+<li>Amazon S3</li>
+</ol>"	"Answer
+  Correct answer: A, B
+"	practice-exam-10
+"Which AWS IAM feature allows developers to access AWS services through the AWS CLI?
+<ol type=""A"">
+<li>API keys</li>
+<li>Access keys</li>
+<li>User names/Passwords</li>
+<li>SSH keys</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"The user is fully responsible for which action when running workloads on AWS?
+<ol type=""A"">
+<li>Patching the infrastructure components</li>
+<li>Maintaining the underlying infrastructure components</li>
+<li>Maintaining physical and environmental controls</li>
+<li>Implementing controls to route application traffic</li>
+</ol>"	"Answer
+  Correct answer: D
+"	practice-exam-10
+"Which AWS support plan includes a dedicated Technical Account Manager?
+<ol type=""A"">
+<li>Developer</li>
+<li>Enterprise</li>
+<li>Business</li>
+<li>Basic</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"What time-savings advantage is offered with the use of Amazon Rekognition?
+<ol type=""A"">
+<li>Amazon Rekognition provides automatic watermarking of images</li>
+<li>Amazon Rekognition provides automatic detection of objects appearing in pictures</li>
+<li>Amazon Recognition provides the ability to resize millions of images automatically</li>
+<li>Amazon Rekognition uses Amazon Mechanical Turk to allow humans to bid on object detection jobs</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"Which AWS service can be used to automatically scale an application up and down without making capacity planning decisions?
+<ol type=""A"">
+<li>Amazon AutoScaling</li>
+<li>Amazon Redshift</li>
+<li>AWS CloudTrail</li>
+<li>AWS Lambda</li>
+</ol>"	"Answer
+  Correct answer: A
+"	practice-exam-10
+"Amazon Relational Database Service (Amazon RDS) offers which of the following benefits over traditional database management?
+<ol type=""A"">
+<li>AWS manages the data stored in Amazon RDS tables</li>
+<li>AWS manages the maintenance of the operating system</li>
+<li>AWS automatically scales up instance types on demand</li>
+<li>AWS manages the database type</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
+"A company’s web application currently has light dependencies on underlying components so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?
+<ol type=""A"">
+<li>Implementing elasticity enabling the application to scale up or scale down as demand changes</li>
+<li>Enabling several EC2 instances to run in parallel to achieve better performance</li>
+<li>Focusing on decoupling components by isolating them and ensuring individual components can function when other components</li>
+<li>Doubling EC2 computing resources to increase system fault tolerance</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+<ol type=""A"">
+<li>AWS Partner Network Technology Partners</li>
+<li>AWS Marketplace</li>
+<li>AWS Partner Network Consulting Partners</li>
+<li>AWS Service Catalog</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+<ol type=""A"">
+<li>Amazon Glacier</li>
+<li>AWS Storage Gateway</li>
+<li>Amazon S3</li>
+<li>Amazon EBS</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Distributing workloads across multiple Availability Zones supports which cloud architecture design principle?
+<ol type=""A"">
+<li>Implement automation</li>
+<li>Design for agility</li>
+<li>Design for failure</li>
+<li>Implement elasticity</li>
+</ol>"	"Answer
+  Correct answer: C
+"	practice-exam-10
+"Which service should a customer use to consolidate and centrally manage multiple AWS accounts?
+<ol type=""A"">
+<li>AWS IAM</li>
+<li>AWS Organizations</li>
+<li>AWS Schema Conversion Tool</li>
+<li>AWS Config</li>
+</ol>"	"Answer
+  Correct answer: B
+"	practice-exam-10
